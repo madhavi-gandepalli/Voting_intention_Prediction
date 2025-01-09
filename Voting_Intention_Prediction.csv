@@ -1,0 +1,911 @@
+Voter_ID,Age,Gender,Income,Education,Region,Political_Affiliation,Campaign_Engagement,Social_Media_Usage,Voting_Intention
+f154e23d-d11c-48e1-93f1-f622c0a93222,20,Female,23599.0,Masters,Urban,Independent,0,2,1
+e1547582-69a5-4e3e-b5e2-cba6fac568f7,64,Male,81164.0,Bachelors,Urban,Independent,1,3,1
+e01159d7-c5d3-4211-a5fa-123d70e17977,68,Female,130784.0,PhD,Urban,Independent,1,2,1
+57c49342-8335-410c-b77d-025e637ce22f,69,Male,33930.0,Bachelors,Rural,Conservative,1,4,1
+5cb55cfc-3304-4e85-a2a3-2ea3bb146153,60,Male,88030.0,PhD,Rural,Conservative,1,3,1
+bc584585-723f-4668-809f-2e0b69caf28b,46,Female,33303.0,Masters,Rural,Independent,1,3,1
+432c182c-e25e-4574-a918-285d599f2715,42,Male,24467.0,PhD,Rural,Liberal,1,1,0
+94740fd5-f9b1-49f5-9446-93aa04fd5db6,29,Male,43292.0,High School,Rural,Liberal,0,5,0
+b6886e51-fe59-420b-95f1-ca80e3c5c7a1,41,,28890.0,Masters,Rural,Liberal,0,4,1
+e7cac3a7-34af-46ae-8e47-2d9525c38f52,35,Male,140662.0,Bachelors,Rural,Conservative,1,5,0
+67cc28ca-1632-4659-a6dd-39ef29ac13ab,69,Male,40518.0,High School,Rural,Independent,1,5,1
+e9f358fc-256a-40d2-8832-49d6f34bf438,74,Male,86595.0,High School,Rural,Independent,1,4,1
+1722e0f8-9027-450f-8062-097ca06268a2,72,Female,45655.0,Masters,Rural,Liberal,0,2,1
+7847a28f-e494-4739-8a27-33132ff862b6,66,Male,127175.0,Masters,Rural,Liberal,0,5,1
+90a3500b-6362-4462-837b-5f9edea0934e,59,Male,83755.0,Masters,Urban,Liberal,1,2,1
+8103f079-d0be-4c4a-9a57-5022cc2a3ebc,21,Male,143527.0,High School,Rural,Independent,1,3,1
+b04f8f55-a511-4bf5-b794-b53bc3afa7cd,18,Female,29601.0,PhD,Urban,Conservative,1,3,0
+1352bb4e-16de-4895-9337-e984912eab58,32,Male,,Bachelors,Urban,Conservative,0,1,1
+4ad696e2-3f57-437a-ac69-3c758c3e55a5,70,Male,122269.0,High School,Rural,Conservative,1,2,0
+0382a7dc-6318-4433-97b7-018ee4ee83c2,28,Male,49164.0,Bachelors,Urban,Liberal,0,3,0
+f51804ce-3918-48db-a892-6e24323aa408,71,Female,91509.0,Masters,Urban,Independent,0,1,0
+34fa332d-cf3f-479d-8259-72dcec70ae54,70,Female,91106.0,PhD,Urban,Conservative,0,3,1
+80d8ab8a-14ff-4caf-855a-f30c6262a3d4,40,Male,26217.0,Bachelors,Urban,Independent,1,5,1
+4b8f225b-ff01-4724-8bc3-294d25ffd663,44,Female,46229.0,High School,Rural,Liberal,0,4,1
+9b74032c-6b52-4c25-9412-2af33b74cc6c,25,Female,102771.0,PhD,Rural,Conservative,0,5,1
+52d77b7e-254a-4167-b1b3-e17bf56263fe,41,Male,27463.0,PhD,Urban,Liberal,0,4,0
+4c3822c1-9902-445c-8649-5a3f96808d2e,41,Female,33926.0,Masters,Urban,Liberal,1,5,1
+73ec6927-3803-4dfb-97a4-a6644ae64b2b,44,Male,119338.0,High School,Rural,Independent,1,5,0
+76ee9e06-6217-4f37-97c1-1f9e4cf5ebf9,77,Male,,Bachelors,Rural,Independent,1,2,0
+f069e8c8-6b74-4a27-bfc4-ae59810838ff,57,Female,132351.0,Bachelors,Urban,Liberal,0,3,0
+5acc5003-096a-423e-97d0-40bd45cc99e1,19,Female,25634.0,PhD,Urban,Conservative,1,5,0
+248384d1-0ad9-484c-bcd8-f7335eb9d2c8,53,Male,58798.0,Masters,Rural,Conservative,0,2,0
+8ad5663e-534d-4647-8159-d4253c9a3c66,71,Male,141770.0,PhD,Rural,Liberal,0,5,1
+ff19df6b-32ae-41fd-a942-7f156efa6dc1,38,Male,134924.0,Masters,Rural,Conservative,1,3,0
+f9dd63e6-60f1-473b-ab27-0f549fa8de1b,46,Male,143570.0,PhD,Urban,Conservative,0,2,0
+2257a29f-8149-4af2-9ed4-0ab69cfe60f4,55,Female,146791.0,Bachelors,Rural,Independent,1,1,1
+0e8ccbcf-a98e-4919-b6ed-251d74c0de39,47,Female,87887.0,,Rural,Conservative,1,5,1
+545a22f1-8d3c-4275-aecd-1355deb6b4eb,60,Female,56290.0,Bachelors,Rural,Liberal,1,3,0
+6588cac3-8694-4d37-968b-e97829bd8268,68,Male,28512.0,Masters,Urban,Liberal,1,3,0
+cc73fb94-9d81-4b2c-a17d-7d6053165459,60,Female,124310.0,Bachelors,Urban,Independent,0,4,1
+094bcee1-f603-4e0a-b6b4-0b0ad57b7bc3,64,Female,116352.0,Bachelors,Urban,Conservative,1,4,0
+8843396f-25fa-4b5d-9133-78fa73aa8912,40,Female,20096.0,,Rural,Conservative,1,3,0
+f5e9cc4b-4fad-4608-9e5b-34bebe26a0c7,33,Male,34888.0,PhD,Urban,Liberal,1,4,1
+5fb97a4c-82c5-43d5-a753-df09db7c3c52,68,Male,125864.0,,Rural,Liberal,1,5,0
+986b36e9-3170-43e3-902c-60a338bbe93c,77,Male,79037.0,Bachelors,Urban,Liberal,1,2,1
+e6954d46-a480-4960-8bed-5bd279b77beb,60,Female,114842.0,PhD,Rural,Liberal,0,1,0
+0b5fc8ac-0a1d-4644-9665-583d5f8313bc,48,Male,51923.0,High School,Urban,Independent,1,5,1
+5d0f3bc9-439f-4440-a1cd-6a9e6ede8820,22,Female,,,Urban,Independent,1,2,0
+f5165b01-75d6-45db-a773-140348a82ddf,50,Female,88883.0,Bachelors,Rural,Liberal,0,1,0
+b460adf8-ceca-4d2d-97bc-2571f33fb24b,65,,147553.0,PhD,Rural,Liberal,1,5,0
+b3522ca2-8094-4607-b1d8-0004e4f53949,31,Male,68975.0,High School,Urban,Independent,1,1,1
+84c613a4-c0f3-4fe6-b847-970ca56febfa,53,Male,78859.0,PhD,Rural,Liberal,0,3,0
+f28d77c7-16e1-4b7c-b085-5fb1e94cd6bb,46,Female,119936.0,Masters,Rural,Independent,0,3,0
+e52cf38e-54d3-4c25-9fa2-cdfd037c8156,71,Female,127603.0,High School,Rural,Independent,1,5,0
+9f377bb6-48cc-4ac5-91fb-615538c7d7ce,52,Female,133792.0,High School,Rural,Independent,1,3,0
+42d9acfd-a929-4919-844a-961cfaa192bd,32,Female,139686.0,PhD,Urban,Conservative,0,3,1
+d528066c-244b-4f02-913d-06da3ad98039,67,Female,146143.0,Masters,Urban,Independent,1,3,0
+665024e3-2e8e-4d33-99cb-4e6c4053e83d,55,Male,,Masters,Urban,Independent,0,5,0
+8f72aa2b-3527-4c8b-8884-773a1b9c35c3,30,Female,92883.0,Masters,Urban,Liberal,0,4,1
+f113e8a4-8cf3-4bba-8e84-e3a0e9af63a5,23,Male,148823.0,PhD,Urban,Independent,0,5,1
+d13ba10e-9441-4e06-9c7e-8af35a1665c6,42,Male,134226.0,,Rural,Liberal,0,3,1
+c7115919-1c2e-4cc6-ad82-f1fec7e430ee,51,Male,100859.0,PhD,Urban,Liberal,1,3,0
+4b8f78ce-8f34-4f36-86ef-71be45ba5e18,46,Male,98419.0,Masters,Rural,Independent,1,5,1
+00e72e6a-c633-4e1a-b541-c6aa50cb9451,36,Female,85887.0,High School,Rural,Conservative,1,3,1
+cfa4c570-09b1-4e62-81a2-7367537d9098,35,Male,104997.0,PhD,Rural,Independent,0,3,1
+92d12d90-f640-4781-9509-a15276feec7a,40,Female,108560.0,PhD,Rural,Independent,0,1,0
+b5c24a06-66ef-4b10-ba88-ad5114b8f732,19,Female,69054.0,PhD,Rural,Conservative,1,1,1
+d54d4577-8fa4-4e98-b3b4-94e59fbda83c,54,Male,,High School,Rural,Liberal,1,4,1
+dbe4b7ea-c07a-49f1-8a47-30174b5e2b1d,51,Male,48096.0,High School,Urban,Liberal,1,1,1
+646a5db7-6a2a-4e80-9d14-f49e032fb4f1,74,Male,61574.0,Masters,Rural,Liberal,0,2,0
+7a7cb719-8438-4270-8356-4867ed4d19af,79,Female,34987.0,Bachelors,Urban,Liberal,1,4,0
+2e74caf1-ca66-4081-97ba-82a6c73c5cc5,77,Male,50377.0,PhD,Urban,Independent,1,5,1
+7bf33ea6-af1b-48cf-9db3-50080830b536,34,,52795.0,PhD,Urban,Conservative,1,1,1
+b702c258-c1f5-4b44-bcdc-bd0f40b9b28b,40,Female,20717.0,PhD,Urban,Conservative,1,1,1
+5c9c6bd3-6caf-4c9e-ab4f-f95be1c7908d,28,Female,134867.0,PhD,Urban,Independent,0,5,0
+279deac7-bc5a-43b1-865b-51b4cc012115,25,Female,45621.0,High School,Rural,Independent,1,4,0
+3703f875-0d71-4fca-a2e4-f23fcff309bf,47,Female,96692.0,PhD,Urban,Conservative,1,1,1
+c1805455-86b0-4767-9347-d0929522ccb2,77,Male,101049.0,Masters,Urban,Independent,0,4,1
+ba50470c-de73-45ab-895a-8ec61f04677e,59,Male,66505.0,Masters,Urban,Conservative,0,5,1
+fdd5d6d3-60db-4dda-a9b5-a0fc49c2b8f9,31,Male,56561.0,Bachelors,Rural,Liberal,0,4,0
+f169de03-09ae-44c2-ac0f-aa6e7512f4fa,32,Female,131884.0,Masters,Rural,Independent,1,1,1
+0b69bee8-e736-4283-b174-6f048973909c,54,Female,72974.0,High School,Rural,Liberal,1,2,1
+7aebfc33-f11d-41f8-b8b5-bed1694f6017,23,Female,116743.0,High School,Urban,Liberal,1,2,1
+5935ffd6-2070-43ba-af4f-987fbba2131b,40,Male,42642.0,High School,Rural,Independent,0,4,1
+577f15ff-04ea-468d-ab18-96a059844a11,48,,72203.0,,Urban,Independent,1,5,0
+4c0e7cbf-e8cf-47a2-9977-0f10b05d1823,64,Male,56172.0,Masters,Rural,Independent,0,2,0
+c4b1aa49-81f8-4892-8bfe-b685f599e57c,56,Male,35320.0,Masters,Urban,Conservative,1,5,1
+d928c86c-d6e1-4816-b799-c247b1131613,52,Male,115712.0,PhD,Rural,Liberal,1,1,1
+f67e0e77-59d5-4863-b3ff-9cf53dd50cb4,25,Female,94995.0,High School,Rural,Independent,1,3,0
+62580ec1-b3b1-4f77-bbcf-597113d05097,36,Female,,Masters,Urban,Liberal,0,3,1
+b5c30bcf-824a-4b0a-b982-b7dd58329909,70,Male,144848.0,Bachelors,Urban,Conservative,1,1,0
+15f93601-dc85-4c0e-8e47-e46337d5485f,45,Female,23306.0,High School,Urban,Independent,0,4,0
+85257ad3-26a1-4547-a13a-6527f3a10391,20,Female,141525.0,Bachelors,Urban,Conservative,0,5,1
+367d057d-8cc4-4855-9280-75181b6b147c,59,Male,93359.0,PhD,Urban,Independent,1,1,0
+291d126e-e1ae-4748-a928-0d2628031cc1,37,Female,136815.0,PhD,Rural,Conservative,1,2,0
+1e8bdae9-4a5c-4e12-a99b-36573a94ca51,53,Female,145250.0,Masters,Urban,Conservative,1,1,1
+2990d5b9-96fc-4c21-bd32-6f5a10fa1e43,62,Male,102634.0,Bachelors,Urban,Conservative,0,3,1
+30b4413c-5f84-4e75-9c99-da8e56465a4a,37,Female,147324.0,High School,Urban,Independent,1,3,1
+de6f8dc7-fab5-44cc-b02b-a99c773063be,65,Female,109173.0,High School,Rural,Liberal,0,5,1
+875f2983-864e-4ce7-a08d-806ca734dfdd,75,Male,,PhD,Urban,Liberal,0,1,0
+70727236-ba4c-4c10-8f02-b84efa6f49f4,47,Male,,High School,Rural,Liberal,0,1,1
+6c2237f2-59cd-441c-93d6-b83fb07008d3,21,Male,91163.0,Masters,Rural,Liberal,1,2,1
+f93da48c-df50-413d-9a0d-8fa7cfc83725,27,Female,36294.0,PhD,Urban,Liberal,1,3,0
+e49f313a-8b9d-4c28-b495-a601c1cfa661,44,Female,42303.0,Bachelors,Rural,Conservative,0,2,0
+1dfce26f-bb2a-4ca8-ae4f-ba3abaef7158,34,Male,104519.0,High School,Rural,Liberal,0,3,0
+2d5007ec-5992-4d9e-9195-96c8016be1ad,41,Female,65593.0,PhD,Rural,Conservative,1,4,1
+df9757d8-1a5a-44ed-bf4a-d1ee9ce21f5d,41,Female,114274.0,,Urban,Independent,1,5,1
+3cf52ab9-821d-4918-9436-9ef03c4b58b7,39,Female,,Masters,Urban,Conservative,1,4,1
+8d1783c9-1b92-4ab3-9aaa-77e506fa66af,70,,125431.0,Bachelors,Urban,Liberal,1,4,1
+5741abb9-49c8-4669-a66b-b39f3b54db4e,32,Female,120668.0,Bachelors,Urban,Independent,1,5,0
+82d3e5ed-b3f0-4e3f-8087-b2743c3f4017,26,Female,94605.0,High School,Urban,Conservative,0,2,1
+80d194d9-e279-4480-a4b6-1b9f06c5a492,68,Male,98465.0,PhD,Rural,Liberal,0,5,1
+7fc19a5a-996c-44c0-9f3e-20e828bdbb4d,53,,54264.0,Bachelors,Urban,Conservative,1,1,0
+14cf3d14-4e9f-4e63-920c-4112a61d911e,62,Male,37618.0,High School,Rural,Liberal,1,4,0
+582ba297-4746-4fd4-8929-df9eaca8b810,76,Female,20016.0,,Urban,Independent,1,5,1
+1e33adeb-d880-4c03-8277-301fa3e64e0a,66,,36737.0,Bachelors,Rural,Independent,0,1,0
+e8856e72-51c9-4ebf-8427-6e0250eb9528,33,Female,128112.0,Bachelors,Rural,Independent,0,5,0
+f179a05f-5144-4691-8f1a-17f9661e610b,27,Male,77552.0,Bachelors,Urban,Conservative,0,2,0
+2aca17c4-b079-4ff8-9951-92a1f22db94a,18,Female,100350.0,Bachelors,Rural,Liberal,1,2,1
+e0a089d2-8e01-4278-8f3d-2b57fd0da59e,63,Female,,PhD,Rural,Liberal,1,1,1
+d49ffe80-ccd1-415f-a399-dd769d6090d0,25,Female,90284.0,High School,Rural,Independent,1,3,0
+09f44466-5639-4650-9d9c-e32b87a0ace3,71,Male,102444.0,Masters,Rural,Conservative,0,2,1
+36f0decd-6e98-42e9-8ef5-b2388df8ed51,24,Male,108004.0,Masters,Rural,Conservative,1,4,0
+9ef82fc8-3baa-430b-b55d-6abd518c547a,64,Male,85704.0,PhD,Rural,Independent,1,2,0
+38f6d73e-f576-4d60-8370-2fa69d8c059f,29,Male,119481.0,High School,Rural,Conservative,1,5,1
+b9529f5d-b522-40a0-a4a5-6f00e6e5a642,22,Male,123846.0,PhD,Rural,Independent,0,1,1
+5ffdfdf0-c7d8-48af-8bb9-2aead36d9a8c,48,,74986.0,Masters,Urban,Independent,1,5,0
+5e1ad759-0f60-4ca5-9757-dd6831e56a9e,46,Male,114053.0,Masters,Rural,Independent,0,4,1
+1a274f5e-5806-4ab9-b279-c4bc53a7cbd6,52,Male,111469.0,Masters,Rural,Independent,1,2,0
+af3e4c61-657b-4d27-a7ca-680491878a66,44,Female,131676.0,High School,Rural,Independent,1,4,1
+d974389d-a6b7-4ca4-9d92-f42e03c635cc,78,Female,141929.0,Bachelors,Urban,Conservative,0,1,1
+4943e68c-128d-4246-a206-89e5c1cb7f1e,56,Male,47514.0,PhD,Urban,Liberal,0,5,0
+08c81519-7883-40d4-b977-1d9c5567894f,62,Male,33065.0,High School,Rural,Independent,0,1,1
+382f1964-1db4-4127-84a9-1209c1a639a8,58,Male,93852.0,Bachelors,Rural,Independent,1,1,1
+74bd34c4-36cd-4850-8107-d626581c69ed,43,Male,27276.0,Bachelors,Urban,Conservative,1,5,0
+087a51c0-7d65-45cb-b7ae-ba28b741d3c9,33,Male,130478.0,PhD,Urban,Conservative,1,5,1
+80b59e01-5a10-43a5-b77c-a49a58e540c6,64,Female,84355.0,High School,Urban,Liberal,1,3,1
+f9d38a10-8fa1-4d20-af43-31a2458d25ee,61,Male,43853.0,Bachelors,Rural,Conservative,0,3,0
+189517b2-c9b3-4693-8f6b-b5d761bde5fa,41,Male,85531.0,PhD,Urban,Conservative,0,1,0
+b7f86a2c-c2a9-4872-9e74-58a6bcd90dbe,48,Female,23318.0,Bachelors,Rural,Conservative,1,5,1
+7e56776e-8666-4767-bd99-ccb26a6d885a,61,Male,81911.0,Bachelors,Urban,Independent,0,1,1
+a7332606-c0e2-4d3d-bc3f-c0bb0d50735b,36,Female,50182.0,Bachelors,Rural,Conservative,1,1,0
+d2e6d387-3d30-4c19-a9fa-cf22b03907ab,22,Female,37063.0,Bachelors,Urban,Liberal,0,1,0
+5c120866-8d1e-439d-ba98-81541de08a45,26,Male,108436.0,PhD,Rural,Independent,1,2,1
+8d902cd3-9835-411f-afc0-6c4dabd34653,44,Female,75797.0,Masters,Urban,Conservative,1,4,1
+276290a0-65df-4d1c-b96d-0834e2d4dea7,54,Male,119339.0,PhD,Rural,Independent,1,5,0
+7688710b-1e7c-464d-b30d-9ff9d19ff273,67,Male,53139.0,Masters,Urban,Liberal,1,3,0
+e8d1af6b-15d6-4a18-be19-f5b8168d08ad,58,,71640.0,Masters,Rural,Liberal,0,2,0
+6c226e9e-e89a-45de-bab6-c7b9efd910e9,66,Female,99599.0,High School,Urban,Conservative,0,2,0
+4524e084-dc4a-49aa-a007-791415e1b9e6,55,Male,134151.0,High School,Urban,Independent,1,5,0
+91fed305-0afa-4d21-ab16-10ff3e680ca6,23,,28702.0,PhD,Rural,Independent,1,4,0
+7a02d362-0039-4f51-add6-bdaf54b7f624,49,Female,119013.0,PhD,Rural,Independent,1,1,1
+8288cbed-a2ab-412c-845e-221d7ca5cd2a,66,Male,62174.0,Bachelors,Urban,Liberal,0,5,0
+b1c12e78-8c64-4ddd-9a6e-256d48ec3cb6,78,Male,94714.0,,Rural,Conservative,0,3,0
+efc0a8d2-7fd6-4653-bf4a-82b1dd493ab6,67,Male,24672.0,PhD,Urban,Independent,1,1,1
+c068470e-e0ad-44e3-9415-71f3f0ba1b95,67,Female,103392.0,High School,Rural,Independent,1,2,1
+b6c33535-72c7-43d1-ba93-bc03d230582c,39,Female,115182.0,Bachelors,Rural,Independent,1,2,0
+ad41ccf8-3aaf-43aa-b354-6cf46036dd6c,51,,66433.0,Masters,Urban,Independent,0,2,0
+94efb5dd-3e56-4746-85b5-2bf08e66177b,68,Female,66932.0,High School,Urban,Independent,1,3,0
+7e22cbd1-6d04-4b52-a9ea-5433099944c2,79,Female,97316.0,High School,Urban,Independent,1,5,1
+189431fa-1a6c-4a67-850e-17aeda83db08,50,Male,34900.0,Bachelors,Rural,Independent,1,4,0
+cc6016d6-1aae-4232-ba59-9d0e7f1cfd31,63,Female,91240.0,High School,Urban,Independent,0,2,0
+4ba68488-ee32-4fce-9e47-aa5a94da5f1f,47,Female,90383.0,Bachelors,Urban,Conservative,1,3,0
+6d97e768-2a00-4a90-99a6-439e85327da4,41,Male,83205.0,PhD,Urban,Liberal,0,1,0
+bc6c56d2-cdcd-4bce-9316-c6d43e5ef3dd,30,Female,85302.0,Masters,Rural,Liberal,1,2,1
+57b0bc97-c7c2-4c5f-9fc1-026ca702f68d,76,Male,37944.0,Bachelors,Rural,Conservative,1,2,1
+e3c77e55-98bb-4c9b-b07c-ccae7b9ef587,66,Female,91799.0,Bachelors,Rural,Independent,1,4,1
+c7189838-6a8a-4ebb-ab78-d190c078db26,61,Female,131303.0,PhD,Urban,Conservative,1,5,0
+9953f392-37fc-478a-91b3-21711b0449c1,45,Female,87242.0,Masters,Rural,Liberal,0,1,0
+a58b2f41-34aa-4606-909e-e9fb7a4e38b0,63,Male,128408.0,Masters,Urban,Conservative,1,5,1
+7d4ae733-bac9-410d-9f57-1d8518238439,79,Male,92157.0,Bachelors,Rural,Liberal,0,5,1
+e5d0dd94-3591-48ec-bfba-dc99cb6894dc,55,Female,37246.0,High School,Rural,Conservative,1,4,0
+3c82ad7b-8f62-4cd5-9a24-a1b2c4e24855,42,Female,149705.0,Bachelors,Rural,Conservative,0,5,0
+d07e8a0f-f765-478e-a064-d4c5961ec468,21,Male,101925.0,Bachelors,Urban,Liberal,1,2,0
+41dcd48a-cfe7-4813-8f24-a69e0c77fd55,75,Male,73167.0,Bachelors,Rural,Conservative,1,2,0
+7fcbf0ec-06a6-4241-a065-458c8dcdf03e,36,Female,29076.0,Masters,Rural,Conservative,0,2,1
+eae742dc-a61e-44b9-91b8-7b9865e41be1,75,Female,101639.0,Bachelors,Urban,Liberal,1,4,0
+003281a1-2bab-4fcd-bc9a-23e43772aca0,25,Female,31698.0,High School,Urban,Independent,1,2,0
+3cb06b8d-5510-4ec8-9e77-d1c2c05a54be,44,Female,117988.0,PhD,Urban,Independent,1,4,0
+63bde0a7-b514-4f21-9e3b-43b32bbb53f5,54,Male,105168.0,Masters,Urban,Independent,0,3,0
+c841c376-0cf1-40bb-ac00-bc90f024e491,30,Female,132116.0,Masters,Urban,Conservative,1,4,0
+b1f6c641-a067-463f-90e3-b016a44e9522,33,Male,,PhD,Urban,Conservative,0,2,1
+786f2d4c-6e27-43a7-b00e-ede595ba97d1,23,Male,102474.0,Masters,Rural,Independent,1,4,1
+3b03700c-902e-41ea-b60d-19e79a62261a,58,Female,111318.0,Masters,Urban,Liberal,1,5,1
+7993150c-7d7f-4657-a918-7f2b22f45cb7,51,Male,31207.0,PhD,Rural,Liberal,1,2,0
+49a809ed-bc5f-4829-a1c8-08376183c096,50,,99015.0,,Urban,Liberal,0,2,0
+94e3ab36-d57c-4da9-8bf0-9afee72222da,24,Male,43701.0,High School,Urban,Conservative,1,5,1
+7f0e190f-4824-4338-810a-61ff7c4a7453,69,Male,25107.0,Bachelors,Rural,Independent,0,1,0
+63df821e-e2ce-4ba3-a006-c2aeccce6cae,29,Male,115932.0,PhD,Rural,Independent,0,1,0
+95fbd94e-7a5d-40aa-b7a4-757fa15f7874,36,Female,49972.0,High School,Urban,Independent,1,5,1
+d204ed07-b6f7-405a-aa00-5fc00d9fdfca,67,Female,110535.0,Bachelors,Urban,Independent,1,4,1
+ec01c4dd-3874-4273-89e4-0f83eaa057c7,49,Female,45838.0,PhD,Urban,Independent,1,3,0
+9a576049-e890-4185-8b46-257ef43cfa56,59,Male,22437.0,PhD,Rural,Conservative,1,3,1
+d320e586-f6ee-44ed-b6ea-24867efefe40,41,,57212.0,Bachelors,Rural,Liberal,0,1,1
+300c2191-a90f-4fb7-9ab5-6aac20c0d0af,44,Female,132233.0,,Urban,Conservative,0,1,0
+02db8030-14b1-45b6-bde7-79e951986d34,21,Female,110378.0,High School,Rural,Independent,0,2,0
+54b36458-e083-456b-bee7-536db04f71bb,66,Male,61902.0,,Rural,Liberal,0,1,0
+813f932e-ba37-4340-9e7b-c0b17aef6eb4,35,Female,,Masters,Urban,Conservative,0,1,0
+daac1908-f5e3-466a-8844-2d255805f568,44,Male,56367.0,PhD,Urban,Liberal,0,4,1
+7d492566-9050-4d7b-a3d4-ae5bbb59c8ed,33,Female,119170.0,PhD,Rural,Independent,1,3,0
+c47e5bb2-2254-4607-b5e9-87bfc43941e1,38,,127888.0,Bachelors,Urban,Liberal,0,3,1
+86905098-bfaa-42ec-8075-8f2fbfa369c8,28,Female,96842.0,Bachelors,Rural,Liberal,0,2,0
+bfaa30bc-d7b4-4021-a581-c7aadaeb1a4e,37,Female,27467.0,Masters,Urban,Liberal,0,5,0
+bd69b5a7-07fd-4b93-a25a-72d7ef4dfd96,36,Female,38392.0,Masters,Rural,Conservative,1,1,0
+c0ddfd6a-03c3-478d-9859-c9e505473040,53,Male,75052.0,PhD,Rural,Independent,0,4,0
+4409e5ef-7c0a-42e4-9720-f8bf75821cf2,58,Female,69521.0,PhD,Rural,Conservative,1,5,0
+03d03f91-3edf-4688-9560-3871c5ad52c7,19,Female,114547.0,High School,Urban,Conservative,0,4,1
+0b8c7ad7-64a7-4710-a6da-300d34154bb8,20,Female,67592.0,Masters,Urban,Liberal,0,5,1
+25840eaf-85c8-456b-b4c5-8145c4279752,62,,34829.0,Masters,Rural,Liberal,1,1,1
+2f509466-c49a-4b02-95d3-e9739c205448,79,Female,39480.0,Masters,Urban,Conservative,0,4,1
+2f2ef565-2594-4990-98c2-24461d5bf6f5,60,Female,,PhD,Urban,Liberal,0,5,1
+6f95fad9-6449-419c-bb89-6f6432195eab,36,Male,97591.0,Bachelors,Rural,Independent,0,5,0
+c0245db4-00bd-4728-84a3-afa1c5a6c195,42,,108902.0,Bachelors,Rural,Liberal,1,2,1
+02f1954f-c82b-4cbd-86a3-8cc9baa11d80,31,Male,59516.0,,Urban,Liberal,1,3,0
+d75adc53-4337-4e5e-bb4b-06fb57c5e6d4,32,Male,72736.0,Bachelors,Urban,Liberal,1,2,0
+e9cde0ff-1e71-4043-894b-920b0f40b444,51,Female,91483.0,PhD,Rural,Independent,0,2,1
+ce2cbb68-3e1f-417e-8473-c10456d1a942,73,Male,115121.0,PhD,Rural,Conservative,1,5,1
+1c814aa4-c3bc-4357-934f-81c0f1084a60,27,Female,119282.0,PhD,Rural,Conservative,0,2,0
+24478bc9-3024-4591-b2e5-67d474af37f1,71,Male,135808.0,Masters,Rural,Conservative,0,1,1
+37fda2f4-a79c-4926-a2ec-7eb26c3ed2f0,66,Male,100050.0,Masters,Rural,Liberal,0,1,0
+0e270328-0259-4397-8614-cb5b3a21ee71,37,Female,,High School,Urban,Conservative,1,2,1
+726bbfd9-c60f-45d8-996c-82e791be2076,22,,144976.0,,Rural,Independent,1,5,0
+b69980a6-571b-47cf-82c2-61c31ec13715,30,Female,102932.0,Bachelors,Urban,Independent,0,4,0
+3aba5cba-f8ef-4cc4-a34f-f89efe1b5e7a,33,Male,79639.0,High School,Rural,Liberal,1,3,1
+d277ad00-1d96-4ad2-be6c-76b569a249e5,20,,63494.0,Bachelors,Rural,Independent,1,1,1
+8edda9ea-8448-4a8b-8109-f8b2f76d05eb,26,,24465.0,High School,Rural,Conservative,0,1,0
+ba780fe3-0c79-4537-87c3-aee3ff4c1f9f,36,Female,114493.0,Bachelors,Urban,Liberal,1,1,1
+201cb91c-fad6-4a2b-adf9-8c84b722343c,21,Male,109089.0,High School,Urban,Liberal,1,5,1
+78b7bf52-3572-4858-a523-d04deff20239,66,Female,32445.0,Bachelors,Urban,Conservative,1,2,1
+19fddba7-8d8d-42f4-b429-ae9248f11d52,46,Male,100960.0,Masters,Rural,Independent,1,4,1
+50fd9374-fe17-42ef-b697-7968c9434748,67,Female,84309.0,PhD,Urban,Liberal,0,1,0
+4779ba3b-ef2a-46a7-8839-c677d64efd1c,50,Male,34722.0,Bachelors,Rural,Liberal,1,5,0
+cfb33909-4edf-4b33-b9d6-1b1f51c3e06f,56,Female,109732.0,PhD,Urban,Independent,1,3,0
+708580c2-2cb5-495b-b026-f29253fb81e9,65,,,Bachelors,Rural,Liberal,0,5,0
+2c313aa0-19a3-4240-8257-8169a936b98e,48,Male,20498.0,Bachelors,Rural,Liberal,0,3,0
+39f54e39-468e-4d18-8ce4-2343e234fa93,19,Female,71542.0,High School,Urban,Conservative,0,3,0
+320d3d7b-5e2d-4aaf-b573-a42cf0120c86,61,Male,125903.0,PhD,Rural,Conservative,1,2,1
+d47a250d-d493-46db-b40e-7fea52bee6d3,46,Male,107095.0,Bachelors,Urban,Liberal,1,5,0
+8112058b-2d84-4510-8d29-433a4e3b8f97,52,Female,47698.0,High School,Rural,Conservative,0,3,0
+d229d379-c13c-465c-bfe3-7ecc4d38727e,28,Male,51551.0,Masters,Rural,Liberal,1,2,0
+d9402009-fbab-4d7f-9011-62b75a7d8001,21,Female,93064.0,PhD,Rural,Conservative,1,1,1
+b7aec8d9-b03b-4db8-adb6-d0ede6af6c69,32,Female,32288.0,Masters,Urban,Liberal,0,3,0
+be749c64-c2cb-4fc7-860f-4e8286448220,31,Male,25328.0,Masters,Urban,Conservative,0,5,0
+f11f53ef-1d93-4ab0-b8d8-14de43b1d237,71,Male,67773.0,PhD,Urban,Liberal,0,4,1
+89666f35-6681-4e98-aeb1-b8167a8252d1,32,Male,122173.0,PhD,Rural,Independent,1,3,1
+28fd7cde-c8a6-462b-8452-0709c40930ec,34,Female,70104.0,PhD,Rural,Conservative,0,5,0
+60150efd-f868-49fc-a979-20e6057d851e,47,Female,81712.0,High School,Urban,Liberal,0,5,0
+b56ea3c8-2da5-4690-a1d6-61c51ce7ed00,76,Male,104523.0,Bachelors,Urban,Liberal,1,4,1
+3b706956-8ff5-456d-81d8-aee6cff348f2,39,Male,112528.0,Masters,Rural,Independent,0,5,1
+705f66c8-f38c-4387-9ed1-e8a797b5a3d7,60,Male,53255.0,PhD,Rural,Conservative,1,2,1
+4a104028-80bc-4535-b4f3-433b4f7f6055,72,Male,133019.0,Bachelors,Rural,Independent,1,3,0
+bfedb39e-83a3-431f-941a-bff083e6dea0,18,Female,30610.0,High School,Rural,Liberal,1,4,0
+649237a1-c49b-4e47-8a07-de1d57a34ef3,64,Male,125454.0,High School,Rural,Conservative,0,2,1
+a8beacd0-feef-4c07-ab4e-8e5292a1eea8,56,Female,90258.0,Bachelors,Urban,Liberal,0,4,0
+12a398c9-3da7-4426-8b7f-fa62262ca4a6,66,Male,146941.0,Masters,Urban,Independent,0,4,0
+a0a70c65-4184-4ee8-907b-94b63979ec8d,46,Female,64086.0,PhD,Urban,Conservative,1,2,0
+23ffaefe-4baa-474b-b489-c0853486bfc8,70,Male,28399.0,Masters,Urban,Independent,0,5,1
+aeb5af6f-e299-48f6-84db-af53ef4f32ba,20,Male,78775.0,Bachelors,Urban,Liberal,1,1,1
+537722e9-58d3-4fe0-a79d-329c31cfe39a,54,Male,62853.0,High School,Rural,Conservative,1,5,1
+0cc83246-887a-4c06-b186-e24341778f4c,40,Female,60448.0,Masters,Urban,Liberal,1,4,1
+c9b07b0f-e034-4131-8698-a27bc7621644,62,Female,128679.0,Masters,Rural,Conservative,0,1,1
+d0ffc596-ecd4-497d-8dcc-957304923ec1,56,Male,134587.0,PhD,Urban,Conservative,0,1,0
+97a6719e-4dd0-4f8e-a4db-712d883a8d67,30,Female,106764.0,PhD,Urban,Conservative,0,5,1
+9fe4368c-309b-4081-b429-0073d663dd46,67,Female,99513.0,Bachelors,Rural,Independent,1,4,1
+574e48cc-eb09-46f9-b0a9-29f8cad1af21,47,Female,35949.0,PhD,Urban,Independent,0,3,1
+4d3e56ca-e489-4cd1-bc58-9dc204d4b44a,63,,141288.0,Masters,Rural,Liberal,0,3,1
+214143a2-859d-4839-b785-932d4cb2ee08,79,Female,21085.0,Bachelors,Urban,Liberal,1,2,1
+012fd257-d4d8-4de7-9adf-5dcda7f2db1a,71,Male,,High School,Urban,Conservative,1,3,1
+f331c175-732d-47a2-8e14-7bcf2f50f548,54,Female,61106.0,High School,Rural,Conservative,1,2,0
+cd990553-2a0f-47a4-8f71-bb390291d0a5,38,,115987.0,Bachelors,Urban,Independent,0,3,0
+69551380-f161-46a5-81a4-0dd52d380dc5,24,Female,55501.0,PhD,Urban,Conservative,0,5,0
+2946ec85-1fb8-4298-ae2d-d0c95f88bf0a,40,,57159.0,Bachelors,Rural,Independent,1,5,1
+ec759aad-fa5c-4fbb-b296-775c949a5a3a,65,Male,24774.0,PhD,Rural,Conservative,0,4,0
+f716d947-dd3d-44a5-819d-57fe7cb40da3,44,Male,42135.0,,Urban,Liberal,1,4,0
+6bb13d51-3423-43b7-adc9-c8b9057dbe3f,43,Female,91567.0,Bachelors,Rural,Independent,0,3,1
+8996d05e-d9d4-4599-ac9f-ab0a0a4df1b2,37,Male,51923.0,,Rural,Conservative,1,4,1
+5d8bd1de-c7f6-47ac-988c-271749bb17e6,21,Male,139369.0,Masters,Urban,Conservative,0,4,1
+6db684ea-cc91-4448-bc97-f502b4e3bcc0,34,Male,,PhD,Urban,Liberal,1,3,0
+9894c785-8737-4776-8920-8b740788f995,66,Female,126085.0,Masters,Rural,Liberal,1,2,0
+9877bed6-a6a2-4d13-8bfb-930ee0049207,76,Male,25411.0,Masters,Rural,Liberal,1,3,0
+7596ddd5-7ebc-44b3-9cc9-209396b9bede,38,Female,43498.0,PhD,Rural,Independent,0,1,1
+b033239e-3566-4c00-b995-ad2666a93699,39,Female,27235.0,Bachelors,Rural,Liberal,0,5,0
+4e504c22-14df-4ee4-ab0d-ecff1f499769,59,Male,29191.0,High School,Rural,Conservative,1,1,1
+ed1ea0ec-58a8-42f8-9759-644879ff7872,62,Female,96938.0,PhD,Rural,Independent,1,4,0
+6bc2d5f6-796f-4b22-856b-0798fdb75406,35,Female,93119.0,High School,Urban,Conservative,1,4,0
+378f7553-fd56-4134-965b-06ee4823a676,46,Female,127899.0,PhD,Rural,Liberal,0,4,1
+413d9be1-03e2-4f09-90c1-922ac918b8fb,53,Female,113408.0,Bachelors,Rural,Liberal,1,5,0
+2c1a0802-e1d9-4053-be68-08c288354f72,47,Female,66002.0,Masters,Urban,Independent,0,3,0
+7725683f-f045-44a1-8cfc-8c2863b5c87d,78,Male,94073.0,High School,Urban,Independent,1,5,0
+dc97e547-c3e2-4d23-9855-5d34454d1821,46,Female,77051.0,High School,Urban,Liberal,1,2,0
+40278dcf-8126-45d6-a424-8407b1d3ed55,74,Female,114737.0,PhD,Rural,Liberal,0,3,0
+2ea4aa41-53e9-4939-9bf0-46542c40a1cd,76,,66198.0,Masters,Rural,Liberal,1,1,0
+8ef58839-8a13-419f-bd01-b46231fee4ae,58,Male,29048.0,Bachelors,Urban,Liberal,1,1,0
+b6e8b105-20d2-4fb7-8dcf-8933fd14378c,48,Male,,Masters,Rural,Independent,0,4,1
+1f672a84-6d5d-464f-a5a7-b529480282af,22,Male,32742.0,Masters,Urban,Liberal,1,2,0
+0b916fbd-a682-4b06-98e6-4824dbc2f094,65,Male,90933.0,PhD,Rural,Conservative,1,4,1
+9394abbc-fcf4-4073-88d2-02d83bbd2e78,44,Female,37562.0,Masters,Urban,Independent,0,1,0
+b9077258-722b-4db6-8ee6-daa74689c5cb,39,Female,125621.0,High School,Urban,Independent,1,4,0
+42144da3-08bf-4c4b-b209-8c976a6123ff,59,,49219.0,High School,Urban,Liberal,0,5,1
+0dab7e22-0720-4049-ae07-35508e1d6fff,64,Male,,PhD,Urban,Conservative,1,4,0
+be03c131-782f-4ef1-beed-8566e092a91b,34,Male,82697.0,Bachelors,Urban,Independent,1,1,1
+3d73e8b8-e079-45ce-80b6-dde040560158,64,Female,,Masters,Rural,Independent,1,1,0
+13ef92f4-e114-45f9-b4d4-b55eb1b8af6e,37,Female,93597.0,Masters,Rural,Conservative,1,2,1
+edc3f44f-2900-43d7-b58f-293a32952bcb,78,Female,,Masters,Urban,Independent,0,1,0
+77c34878-910d-40d2-ad76-055838a5835a,23,Female,94991.0,PhD,Urban,Liberal,1,3,1
+41130fa9-fff3-41d0-81e9-f8ffd6c193a3,35,Female,28933.0,PhD,Rural,Liberal,1,2,1
+67132ec3-e6c3-411b-820e-7de8980315c7,65,Female,120139.0,PhD,Rural,Liberal,1,5,1
+544bf7c3-98d3-4ae9-a0df-ff42c0c439db,30,,81565.0,Bachelors,Rural,Liberal,1,1,0
+3cf64220-88ca-4a30-b335-2279306a2aa0,63,Female,149589.0,High School,Urban,Independent,1,1,1
+2fa1eb53-97ed-4f33-bc25-c34364c599d6,53,Female,140023.0,PhD,Urban,Liberal,0,2,1
+619dea57-95a9-47cd-8570-9afaf78e725a,70,Female,74817.0,High School,Urban,Conservative,0,5,1
+5f4beb51-e215-4f27-96e3-b893de8795ae,67,Male,,PhD,Urban,Liberal,0,5,1
+c1a24d38-3c6d-4655-9c7d-6e263bf376c7,63,Female,65896.0,PhD,Rural,Conservative,0,4,1
+6d8430f9-ca57-4f40-b267-d7f8402bedfd,48,Female,25535.0,Bachelors,Rural,Liberal,0,1,1
+8fb5931f-af1b-4ef7-a36c-0822a3b9e3cc,55,Male,148814.0,Masters,Urban,Independent,0,2,1
+c2bc316a-4b55-4fc4-9392-bcb08175c10b,44,Female,108448.0,Masters,Urban,Liberal,0,5,1
+053ebf61-74e7-4262-bce4-6f1625a8d57e,43,Female,30354.0,PhD,Urban,Liberal,0,1,0
+7aeae142-8af1-48b8-aff7-1ccdb0a8323b,42,Female,58715.0,,Urban,Liberal,0,3,1
+c601889d-8203-4710-8735-4124092d2a6e,73,Female,90585.0,High School,Rural,Liberal,1,1,0
+4cbe9554-7ac6-4580-98f4-c6cf89fd255f,76,Female,82879.0,High School,Rural,Liberal,1,3,0
+a3f3ab8f-b4e0-40e9-8742-4c693291b9dc,22,Female,149509.0,High School,Rural,Independent,0,5,1
+b336614b-dce0-425a-a403-322c907cf603,50,Female,25584.0,Masters,Urban,Liberal,0,2,0
+42b0d414-6f74-440a-91d4-0cd585ed1afe,32,Female,142175.0,,Urban,Independent,1,5,0
+20fd4810-7492-4fa9-99c3-e42b8242b27b,50,Female,49884.0,PhD,Rural,Conservative,0,1,1
+cba7f7a4-b747-44ae-af86-5e03cb0c6b3e,73,Female,123132.0,High School,Urban,Liberal,1,4,1
+74a3f538-1bb3-45cd-bf4c-ad6545d452d1,63,Male,80915.0,,Rural,Conservative,1,4,0
+6c729a5d-8a01-458c-8b14-cdfd1c5426d8,29,,87641.0,High School,Rural,Conservative,0,2,0
+a3ed10ac-cdb5-40c8-ac26-16793e0bdb0c,73,Male,25364.0,Bachelors,Rural,Independent,1,4,0
+3f4459fa-0e64-45e9-883d-fcf69fd40ea3,38,Male,65752.0,Bachelors,Urban,Independent,1,1,0
+7935e3e7-9ee4-4d01-ab0e-b64d2b34c713,78,Male,100740.0,Masters,Urban,Liberal,0,4,0
+efb21c6a-7372-4229-b79b-f6307deda2c0,19,Male,104809.0,High School,Urban,Conservative,1,4,1
+7e83c9cd-38a3-4b9a-b35f-9ed525c43130,40,Female,95565.0,Bachelors,Rural,Conservative,0,1,0
+1d30da33-c2f1-42bc-87b3-8c562b24f09f,70,Male,65506.0,Masters,Rural,Independent,0,1,0
+8966a9f5-6a13-45ae-8465-f952b73b121b,44,Female,145034.0,Bachelors,Urban,Liberal,1,4,1
+649b291c-b9de-4be0-980a-2da8bb493a1a,30,Female,69656.0,Masters,Rural,Independent,1,1,1
+dd18d50c-86e7-4974-9c9c-e1ae6f2fe8e0,69,Female,,High School,Rural,Independent,0,3,1
+22bf34ce-e6b9-451f-bc0c-d6f21b707dad,57,Female,,,Urban,Liberal,0,5,0
+31b977c2-20d2-409a-b244-211ef3ce2d8c,47,Male,110729.0,Bachelors,Rural,Conservative,0,5,0
+1288b4d8-bbd1-4d0d-a119-99c1d0c44348,25,Female,145332.0,Masters,Urban,Independent,1,4,0
+d04aadd3-1572-448c-a940-8b331d0a4a4c,37,Male,83253.0,PhD,Rural,Independent,0,3,0
+82b19a3c-85ca-4224-939d-bcb18a4bc5b3,35,Male,51246.0,High School,Rural,Conservative,0,3,0
+e0eb1004-40e2-4674-ad32-cd63439e0747,22,Female,51013.0,PhD,Rural,Conservative,1,2,1
+ee28219e-ad1d-4570-bb18-dc15eac97d4b,34,Female,127974.0,High School,Urban,Liberal,0,5,1
+1de50088-9a9c-4a26-ac63-9d78f7f1f678,40,Male,21858.0,High School,Urban,Independent,1,2,1
+b4da7d77-167f-43af-9f8d-8f07f1278acf,56,Female,122976.0,PhD,Urban,Liberal,1,3,0
+7a86258c-746e-4af5-bcd3-e8931341820c,68,Male,114119.0,High School,Rural,Conservative,0,2,1
+32c882e4-d7d6-4ad4-a84a-b0fad9453fd0,34,Male,136801.0,High School,Urban,Liberal,1,2,1
+50ed7c43-aca7-4908-9c6f-c533993f2c75,41,Male,56746.0,Masters,Urban,Conservative,1,4,1
+02c31017-7d22-48ce-b024-b113022def7d,35,Male,85967.0,Masters,Rural,Independent,0,2,1
+3d236e0e-dc14-45a6-85a3-035858fbc482,42,Male,132418.0,PhD,Rural,Conservative,0,1,0
+a90f078c-5298-4a50-b35f-49e7549f0927,28,Male,22738.0,Masters,Rural,Liberal,1,3,1
+0ad0d74d-9cdb-4ba8-8eee-9f2766f02ab4,66,Male,88331.0,PhD,Urban,Liberal,0,4,1
+8e039ad0-1755-4d36-b639-f94d43a538d7,42,Female,140747.0,Masters,Urban,Liberal,0,4,0
+a63ca15b-8e2c-486b-b6cb-f013a606833a,39,Female,28607.0,,Rural,Conservative,0,3,0
+38a1e892-12a4-42e8-b93c-567afacb9d36,30,Female,67462.0,Masters,Rural,Conservative,0,3,0
+6f70f613-a1bf-4553-8a5b-accc07b2c32e,24,Male,66565.0,PhD,Urban,Independent,1,1,0
+2ddb3159-7627-4cd7-b8fb-c13f37f8d70d,55,Female,20312.0,High School,Urban,Liberal,0,5,0
+d40b5a7c-8256-4bba-b68e-0f1360b931ea,21,Male,20695.0,Masters,Urban,Independent,1,2,1
+0d3f522d-b7f6-457b-8f25-80b69e3c3da7,76,Female,68337.0,Bachelors,Urban,Liberal,1,4,1
+89aaf9cc-c554-4764-add9-42fcfcec4779,36,Female,28121.0,PhD,Urban,Liberal,1,1,1
+0a0f3ef0-1a1d-4f1f-9f5c-08be6cfdac5f,49,Female,143664.0,Bachelors,Rural,Liberal,0,2,1
+e2a19324-12de-4209-96f3-6e5eff893a9c,47,Male,75580.0,High School,Urban,Liberal,1,2,1
+863cbc56-4b77-4e8b-a3d4-42cf09d4596d,66,Male,75722.0,Masters,Rural,Conservative,1,3,0
+5ebc2ce1-c455-4241-9f06-1c36b18d2115,36,Female,58221.0,PhD,Rural,Independent,1,4,0
+486a5d00-8467-44e6-931b-1e57c49a3569,68,Female,29909.0,Masters,Urban,Liberal,1,3,0
+6e2ffe34-f29f-47aa-858b-603b42a03c96,28,Female,59340.0,Bachelors,Rural,Independent,1,1,1
+431c0a61-37fd-4b93-9a22-297ad61e203f,66,Male,65408.0,High School,Urban,Liberal,0,1,1
+40462229-2e62-4436-9341-56f9404abfbe,58,Female,138747.0,Bachelors,Rural,Conservative,0,2,1
+cfa39a47-e8f9-486a-b785-1d4976a792cf,52,Female,36929.0,High School,Urban,Liberal,0,4,1
+42e87d9f-1009-4a22-bd28-a9d65696fa6c,50,Male,97710.0,Bachelors,Urban,Liberal,0,1,1
+080cf7eb-fdb2-4176-998d-357641cf820f,49,Male,22041.0,High School,Rural,Conservative,0,1,1
+d7dde213-d4c7-4ccc-b3f9-12a9527dc00a,41,Male,45200.0,PhD,Rural,Independent,0,3,0
+c374df58-c77f-49e2-a57b-da3ae0889133,65,Female,30115.0,Masters,Rural,Conservative,0,5,0
+5f09a83e-2e55-4279-8982-e5ae08b7f44b,68,Male,138419.0,PhD,Rural,Liberal,0,4,0
+aa7aeecd-a655-4301-abfd-3837e3192649,53,Male,138640.0,PhD,Rural,Conservative,1,1,0
+11f1ef60-5c1a-4c17-92d5-330516434e3d,34,Female,28970.0,,Urban,Liberal,1,1,0
+c045766c-1c0d-4968-8dd2-198598b19631,39,Male,138947.0,High School,Rural,Independent,0,1,0
+69aa8c2d-a83e-481d-ab8c-7c96c5e9239d,39,Male,30455.0,PhD,Rural,Liberal,1,2,0
+a3da0bc4-3dc7-413e-8c62-0a77e7a676bc,38,Male,82674.0,PhD,Rural,Independent,1,1,0
+d12ace27-8d78-4bec-ab79-bcffccdae2f0,71,Female,146072.0,Masters,Urban,Independent,0,3,0
+28bcc3ca-ac49-42b3-b009-a0ddeda69c25,53,Female,114358.0,Bachelors,Rural,Independent,1,4,0
+92e4b372-6b69-4ab0-9945-2ea240048d9b,67,Female,26956.0,PhD,Rural,Independent,0,4,0
+b8727e2b-5e82-424e-94af-7d5ef1ccc8c5,79,Female,130221.0,Bachelors,Rural,Independent,0,4,1
+aa59b3ba-ec9f-4362-b79f-b52414b44d68,52,Male,126278.0,Bachelors,Urban,Conservative,1,1,1
+85efd61a-45dc-4116-9332-b9a2a3149077,44,Male,113439.0,PhD,Urban,Liberal,1,4,1
+989ec03c-362b-4404-b3ef-f78011aaaa16,40,Male,124462.0,Masters,Rural,Liberal,0,2,0
+c111e878-ef33-4503-ba92-976036f40a15,44,Female,24974.0,PhD,Urban,Conservative,1,3,1
+c4c8d6bc-a905-4175-b664-049a3034e4ee,29,Male,108929.0,Bachelors,Rural,Conservative,1,1,1
+702c4916-3c66-400f-b1f8-d1c761e33d06,38,Female,148150.0,High School,Rural,Conservative,1,1,1
+5c6831ee-47a7-4f6e-93c6-724ac6e90ac4,59,Male,38034.0,Masters,Rural,Liberal,1,4,1
+9c2e574c-d8d8-4905-a54a-4c6ce1d36dc1,18,Male,23377.0,Bachelors,Rural,Liberal,0,3,1
+77410373-0fe7-47a8-bbe0-44bbfcabcd74,42,Male,37239.0,Bachelors,Rural,Conservative,1,5,0
+e69226eb-cabd-4150-b96d-f44d99834051,27,Female,85773.0,Masters,Urban,Conservative,1,1,1
+1665feaa-de5e-473f-bd15-0fcb06bbc16b,76,Male,32344.0,,Urban,Conservative,1,2,1
+cc4c38f2-80d9-48bd-aa36-c95b88c48b86,73,Female,148516.0,PhD,Rural,Independent,0,4,0
+b2618f59-1dc0-4833-b294-05dc2aeaabee,46,Male,101594.0,PhD,Urban,Independent,0,3,1
+ee6bd393-61f6-4ed0-9402-205aa53c07b5,53,,113025.0,High School,Urban,Liberal,0,2,0
+572fcaba-2292-4c2d-83ad-93af67c48c67,70,Male,83855.0,High School,Rural,Conservative,0,5,0
+044db347-e342-401b-aca7-12d6d4bf24c0,65,Male,55561.0,Masters,Rural,Liberal,1,1,1
+1736d431-bf05-4a01-906b-49c739d1049a,68,Female,36895.0,Bachelors,Urban,Conservative,1,5,0
+d4cdaf8b-b6c5-45f6-94c0-a62dbef8e9ca,42,Female,126341.0,High School,Rural,Independent,0,4,1
+cacf460f-890b-447a-bfcc-9b42ac319da6,61,Male,,PhD,Rural,Liberal,1,5,1
+e0073d95-2e27-4291-aa0b-bf1f10cebf81,58,Female,44518.0,,Rural,Conservative,1,1,1
+541de33a-28b9-47f1-88bd-fafbfe9038dd,49,Female,86025.0,PhD,Rural,Independent,1,3,0
+4d93330f-743d-4632-a261-65f1eb0a7eeb,68,Female,24869.0,High School,Urban,Liberal,1,5,0
+07ac0a12-6913-424c-9e78-abe348b5d137,62,Female,109557.0,,Rural,Liberal,1,3,0
+2a5588b0-a795-4dbc-a616-e52b2c8e4a99,20,Female,54751.0,High School,Urban,Independent,0,1,1
+3de7f53c-965d-4a63-a18c-52ae0a852f6a,78,Male,110088.0,High School,Rural,Conservative,1,3,0
+25501123-5bad-4059-8b1c-31a9a06257ca,30,Male,126667.0,Masters,Urban,Conservative,0,4,0
+1c239265-4091-47cb-849f-5d1a9681762a,66,Female,,PhD,Urban,Conservative,0,5,1
+4cb48049-26d7-4711-a73c-0e48eae32607,37,Female,79766.0,Masters,Urban,Independent,1,5,0
+8979a1a8-e87b-4f82-93f3-58f07e9987c7,79,Female,21250.0,PhD,Rural,Independent,1,1,0
+835ad398-a537-47c2-b4c2-9a9cc7dbe5f6,71,Female,37287.0,Bachelors,Urban,Liberal,1,4,0
+0dc48501-9d46-4ad6-9b77-c3ab9dbae354,54,Male,122648.0,,Urban,Liberal,1,1,0
+74ae7982-1caa-4b07-a107-9fcd2616d248,34,,145715.0,High School,Rural,Independent,0,5,0
+b4e023b4-01c1-41e1-ad6d-18d11d8306c7,55,Female,96246.0,High School,Rural,Conservative,1,3,1
+21802cfb-9230-435b-b4c6-cfd7db905bc0,49,Female,103339.0,High School,Urban,Conservative,1,5,1
+9f2e0d41-2677-4033-84e0-74cd3e058ea1,67,Female,51582.0,,Rural,Liberal,0,5,0
+0ebd4c11-4c28-4a34-88f7-133716cf3bd5,22,Female,141957.0,Bachelors,Rural,Independent,0,3,0
+35e28b84-f6db-4595-ac76-8d915fde9731,27,Male,74959.0,Masters,Rural,Independent,0,5,1
+b08d0f13-e84b-4f5a-a597-68ecc9b93ab9,61,Male,117051.0,High School,Rural,Conservative,0,4,1
+63ddd612-c94c-4ecb-824f-9355c32a5631,21,Male,24748.0,Bachelors,Rural,Conservative,0,5,0
+112e5100-f976-47d2-a389-9789c95abd69,28,Female,77006.0,Bachelors,Rural,Liberal,1,3,0
+717a3cf5-513e-42e7-8887-d465149bc3e9,29,,20322.0,PhD,Rural,Conservative,1,1,1
+1b5894b9-a957-4fb8-aaf6-b8e7938eb726,61,Female,,,Urban,Conservative,0,3,1
+9762c994-1be5-4c45-992d-8b4c3536d8d7,79,Male,61178.0,Bachelors,Rural,Conservative,1,2,0
+ba11d08c-dc65-4b96-b086-ba3f2acdcff1,21,Female,109935.0,Masters,Rural,Independent,1,3,0
+1c387c5c-8f22-404a-9c2b-562bcc764860,25,Female,80248.0,Masters,Rural,Independent,1,5,0
+b2347812-8cfb-4802-a557-64777f9b8544,66,Male,59190.0,Masters,Urban,Conservative,0,3,1
+bc235ede-8ba8-4ae7-a526-f548e1890c8a,67,Male,102338.0,Masters,Rural,Conservative,1,3,0
+09178d1a-97fc-449d-983c-3835daa1b50a,42,Male,25979.0,Bachelors,Urban,Liberal,1,5,0
+bbb152cc-ceca-4775-ba9e-54c50b943c32,45,Female,148402.0,PhD,Urban,Independent,1,3,0
+2d540fb4-022e-4080-b645-b9e8df9e45cd,48,Male,87542.0,,Urban,Conservative,1,4,0
+d34267cc-baca-4385-914c-d08ee57adf7c,40,Male,68033.0,High School,Rural,Independent,0,1,0
+e158f6c9-f47f-46c1-b569-f8d5b9aca4c9,62,Female,120660.0,Bachelors,Rural,Liberal,0,1,1
+9437b03a-602b-479d-b552-6586250bb4d5,65,Female,88479.0,Bachelors,Urban,Conservative,1,4,1
+b1ac707e-90f2-4740-a99e-3712ddaab792,78,Female,141994.0,PhD,Rural,Liberal,0,5,0
+74739152-4353-4a78-804e-fd5ed524f5be,39,Female,25354.0,Masters,Rural,Independent,1,3,1
+03b2661c-b834-4ed4-89c0-43333cfef1d2,20,Male,128643.0,Masters,Rural,Liberal,0,3,0
+d9adb35b-c7a8-4181-822d-5ec5846ea421,29,Male,83390.0,Bachelors,Rural,Independent,1,2,0
+44e06e35-fa43-41bf-ac9c-e59ed5d21656,67,Female,103928.0,Masters,Rural,Conservative,1,2,1
+19be3544-d68e-429a-9772-8f843b0c8358,52,Male,72084.0,High School,Rural,Independent,1,2,0
+43a9dc3d-095b-481a-9074-6e2bfa7cf720,66,Female,138394.0,Masters,Urban,Independent,0,4,0
+7a75ef7f-f195-44db-a043-3ec4623533ac,47,,60267.0,Bachelors,Rural,Independent,0,2,0
+790be305-e2a8-4d16-bbb6-b8c8fefac1bf,40,Female,115039.0,High School,Urban,Liberal,0,3,1
+38a0bd86-c79f-454b-bf79-e2e5c947f771,24,Male,132952.0,High School,Urban,Independent,0,2,1
+31f419e6-82a0-493f-b5f1-e4f4b42881ff,43,Female,110475.0,High School,Urban,Liberal,0,3,1
+74ca8f44-c3f3-4d06-8256-6987959a700c,59,Male,42616.0,Bachelors,Rural,Independent,0,3,1
+40bcb773-e6b7-4685-87bd-65ba1c95353e,23,Female,45604.0,Bachelors,Urban,Liberal,0,4,1
+377b8c8c-79a1-42b8-8cab-569d472816fc,42,Male,116371.0,Masters,Urban,Independent,1,4,1
+510b128e-94de-48a3-8fce-a9d735f33e9b,74,Female,105067.0,High School,Rural,Liberal,1,1,0
+6a512e4b-bb8a-47ef-a1e6-c56897550104,23,,97777.0,Bachelors,Rural,Liberal,0,3,0
+67cf3034-d09d-440a-8ac9-3bd6b1443c5e,40,Male,,PhD,Urban,Conservative,0,2,0
+d93893e2-e766-4b9c-a75e-22e4588e2276,70,Female,50788.0,Masters,Urban,Liberal,0,4,0
+36387314-38e9-4311-90d1-dbc6e80b9945,41,Female,60803.0,Masters,Urban,Independent,1,5,1
+90fadec6-cc95-4a9c-9ef2-b7f7dd9550fb,47,Male,104951.0,Masters,Urban,Liberal,0,1,1
+a4429682-3b3e-4162-b949-fa26681a8ff5,32,Male,113874.0,Masters,Rural,Independent,1,3,0
+d6cd8299-38f5-4e77-8348-5734a39f5915,54,Male,133111.0,Masters,Rural,Liberal,0,3,0
+afcd5a76-d3c9-4a89-8a9e-2741e843071d,54,Male,109902.0,Masters,Urban,Liberal,0,5,0
+0abcbfaf-cc96-49a7-bf7f-8285a0c7e689,56,Male,149857.0,High School,Rural,Liberal,0,4,1
+da168565-dc5c-4bee-b513-7693d60a065d,60,Female,,PhD,Urban,Liberal,0,5,0
+765d16ae-6b26-495d-895f-877c7b8ebe88,35,Male,45822.0,High School,Urban,Liberal,0,3,1
+9d09cfc4-e06b-4ce9-98b8-72b3c6b5c3a5,41,Female,49657.0,Masters,Urban,Liberal,1,3,1
+59440447-2a73-48d8-b543-0a279bdc5ca3,26,Male,146668.0,High School,Urban,Conservative,1,5,0
+a3d65bdd-7e8c-4361-83da-43830629d91d,53,Male,148412.0,Masters,Urban,Liberal,1,3,1
+f467d046-ffdc-4b1d-bbee-4064d4e31dba,74,Female,144147.0,High School,Rural,Conservative,1,5,0
+b3ce15c2-31d1-4c01-883c-6573d5eba85d,18,Female,62203.0,Masters,Urban,Independent,0,5,0
+9339f93b-facb-4357-9432-6db084286d91,58,Female,88765.0,Bachelors,Rural,Independent,0,1,0
+bc868d53-62a9-44bd-8526-e1f2e254710c,33,Female,124041.0,High School,Urban,Independent,1,4,1
+87839d82-8ea6-412b-a0b3-ed0991c4fb64,50,Male,66869.0,Masters,Urban,Independent,1,2,1
+7f4eb47c-27dd-4e37-88d0-3c22907a001d,67,Male,68497.0,Masters,Rural,Independent,0,3,0
+e2f78759-6ed1-4ebf-bfa9-6c463dfe0c90,29,Female,56043.0,Bachelors,Rural,Liberal,0,5,0
+40d25658-830b-4d90-a0e3-f78d355e370a,51,Female,59415.0,Bachelors,Urban,Conservative,0,2,1
+f28000d2-56ec-4795-8e43-2045aa2edabc,25,Female,30939.0,PhD,Rural,Liberal,0,3,0
+5dae37d4-d019-4742-b945-4d7e0d42ee91,78,Female,93436.0,Bachelors,Rural,Independent,0,1,1
+25b20f16-d881-432a-bf62-aa7777c95801,76,Male,,PhD,Rural,Independent,0,5,1
+fd258ed9-18ef-4dbe-9d95-85ee9369c8ca,37,Female,77438.0,Bachelors,Rural,Conservative,0,5,0
+2dffb106-cdfd-470c-9cf4-250d0f824bb6,31,Female,88039.0,High School,Urban,Conservative,0,3,1
+3f24040a-fd1e-4ab7-84a1-1f9bf200465f,67,Female,65402.0,Bachelors,Urban,Liberal,0,2,1
+e6b55b95-8119-4cda-8a86-fb28068c6325,49,Female,,Bachelors,Rural,Liberal,0,1,1
+4645ca86-929f-42a3-9dc5-edef2a3b53f2,53,Female,102288.0,Masters,Rural,Conservative,0,3,0
+61aa591f-0420-4626-bca9-265ef60dc302,36,Female,117280.0,Masters,Urban,Liberal,0,1,0
+ca9ee96b-1de3-4bd4-b3c4-74cb7d0e4491,23,Male,98529.0,Masters,Rural,Independent,1,3,0
+f5db0720-4327-4263-9986-527c58840fce,53,Female,144829.0,Masters,Rural,Liberal,0,1,1
+c146b99c-43d2-4873-b993-5f9709b46d39,73,Male,64833.0,Masters,Rural,Liberal,1,1,1
+3231aa79-63e4-4a33-a618-c6af4f031925,58,Female,88069.0,High School,Rural,Liberal,1,2,0
+64ce63b8-499c-44bb-abae-68dcfb2c42a1,31,Male,102285.0,Bachelors,Urban,Conservative,0,2,0
+f4e6be0c-9560-4d38-87e6-038ba6ec0b49,66,Female,102337.0,PhD,Rural,Liberal,1,1,1
+493b7f87-cf46-4c8e-890d-62cdcd91d35b,43,Female,60148.0,Bachelors,Rural,Conservative,1,4,1
+f1ee603d-b0e3-4146-bf42-95874d828eb5,40,Female,20690.0,High School,Urban,Liberal,1,3,0
+0e44cd2f-2cc3-4cb1-b17f-632ac7bb9066,79,,72888.0,PhD,Urban,Conservative,1,5,1
+3522246e-d8a4-4913-a897-bcdd9737ab46,53,Male,147194.0,Masters,Rural,Independent,0,5,1
+5898e3a1-43f2-43bb-a6f6-f97b17d5a0d6,44,Female,42137.0,Masters,Rural,Independent,1,3,0
+5b4a91d9-475b-4915-b2d7-df57b3df5e85,77,Male,75753.0,PhD,Rural,Conservative,1,3,0
+7a37522e-f85b-46e5-9138-5617868b4dec,54,Female,65797.0,Bachelors,Urban,Conservative,0,5,0
+6de30592-8215-4ad5-8e01-0fb1a31061f6,59,,141163.0,PhD,Urban,Conservative,1,2,1
+fd3aaaf5-41eb-4c02-8537-4844ff137d68,73,Female,136304.0,Bachelors,Urban,Independent,1,4,0
+8bc3859e-6e52-4d06-ab3c-7a8fd77b74f9,60,Female,87570.0,Bachelors,Rural,Independent,0,2,1
+0e109bb0-933a-4aa6-8c7f-a6fd08a2d5d9,76,Female,133564.0,PhD,Rural,Liberal,0,2,1
+3be00a53-1ee8-419c-b4b0-94290a7246d3,59,Female,131708.0,High School,Urban,Independent,0,3,1
+3c4f077c-ac90-42a6-8189-8a8dd59ed6c1,19,Male,72472.0,Masters,Rural,Independent,1,3,0
+c5c730d1-a9d3-43e5-b44e-c2d82991c31b,26,Female,22074.0,PhD,Urban,Conservative,1,3,1
+85eed15a-b8a3-4f2d-b249-4aa7f9594b50,32,Male,58935.0,Bachelors,Rural,Conservative,1,1,1
+32c3d3a1-5a94-4b02-b5cc-b8fd8de1d6ad,67,,119868.0,Masters,Urban,Conservative,0,2,0
+2165fe1c-4bd5-4459-bd04-1db1a7b5b7bb,63,Female,92212.0,Masters,Urban,Conservative,0,1,1
+d37268a3-2ef4-4dc2-9dfd-09c641e8d937,32,Male,125658.0,Masters,Urban,Independent,0,2,1
+0314bfef-2a88-499e-93aa-32c1080f6c65,23,Male,97564.0,Bachelors,Rural,Liberal,0,5,1
+01576852-95e0-4041-b0eb-e728dfb12bcf,26,Female,107971.0,Bachelors,Urban,Independent,1,2,1
+011e9c9c-f661-44a6-be62-0a24f6a23a18,71,Male,100164.0,Bachelors,Urban,Independent,1,4,0
+8b7aa649-6cc6-439c-b181-89bdc83ea5fb,29,Female,68283.0,Bachelors,Urban,Conservative,1,4,1
+198d218c-b2bb-4396-8b83-fe8c05cf031a,43,Female,46664.0,Bachelors,Urban,Liberal,0,1,0
+5b3f00e8-f5d3-44c9-a116-0bb9e7123d9b,50,Female,68352.0,PhD,Urban,Independent,0,5,0
+ef754bcc-665b-42f0-895b-7ec0d7b2d72e,52,Male,126053.0,Bachelors,Rural,Conservative,0,3,1
+911c85e8-8207-4065-b579-03ed652d2d2e,54,Female,72597.0,Bachelors,Rural,Independent,0,2,1
+966f3437-2b8a-4df9-817a-d09e383808de,36,Male,128361.0,Masters,Rural,Conservative,1,3,0
+db0eae82-ccdb-46e0-b467-9c3a588f12c9,79,Male,128769.0,Bachelors,Rural,Independent,0,5,0
+068bed42-8f6d-4c22-b486-f76fb3541b32,32,Male,118520.0,PhD,Rural,Independent,1,4,1
+5e72de7b-d755-42f3-99ee-6c5d511f4fa8,64,Male,79854.0,High School,Urban,Conservative,1,2,0
+0aabfed0-b4da-49ea-987a-f621d1e398ce,28,Female,61592.0,Masters,Rural,Independent,0,3,0
+c8dfaecd-6d8b-4a8a-91eb-696a5b4bf73d,24,Female,110618.0,PhD,Rural,Conservative,1,1,1
+51a9022b-5da7-4672-aa22-92bad5f76e4b,56,Female,140535.0,High School,Urban,Conservative,1,1,0
+f1c7a766-ba1c-42b0-ae78-eb9a4e044151,45,Female,135670.0,High School,Urban,Independent,0,4,0
+e7c24f48-c792-4868-8c9c-c0b283010526,25,Male,46499.0,High School,Urban,Conservative,0,5,1
+2f0f0c22-b7fe-449b-aa9c-c1cc089cd40f,35,Male,119945.0,High School,Rural,Independent,1,4,0
+d21a8ff2-b0bc-4984-ba35-3a0be55714f4,79,,79067.0,Masters,Rural,Independent,1,1,0
+5311caa6-ca66-4a70-9f38-7980f8307db0,32,Female,69488.0,Bachelors,Urban,Liberal,0,5,1
+94c63b71-db1a-4d19-8a26-5ecfb1f7c0db,61,Male,68554.0,Masters,Urban,Liberal,1,1,1
+64842a06-afa9-42b7-ac39-3570b8ec4f8f,27,Female,139225.0,PhD,Rural,Independent,0,5,1
+e4fce1d1-3f5e-46b1-a44e-000f7d32391b,54,Female,60195.0,PhD,Rural,Liberal,1,1,1
+b15e87ae-9b49-4240-9f9d-9a0afb7c3644,48,Male,105327.0,High School,Rural,Liberal,0,5,0
+f0d03d63-6f59-414d-b966-b9745785bf50,57,Male,144871.0,Masters,Urban,Independent,0,1,0
+48337ff8-bf69-4feb-8db2-89e05f13a333,28,,144476.0,Masters,Urban,Conservative,1,2,0
+856388b2-4995-4a61-9bd5-5c0a182d9a9c,31,Male,34363.0,Bachelors,Rural,Conservative,0,3,1
+02de1a0b-fb9e-40dd-8134-0e410dc94aca,18,Female,132207.0,PhD,Rural,Liberal,0,3,1
+e8a45995-b841-4c39-b052-3bc95e89adac,71,Female,67184.0,PhD,Rural,Conservative,1,4,1
+d0f6541d-0512-4ef1-9a7b-defe0325fd2a,79,Male,126426.0,High School,Rural,Liberal,0,5,1
+ff674ce8-a467-43da-a22f-48875a52d1fb,24,Male,20110.0,Masters,Rural,Liberal,0,4,0
+d7ae9cb1-9be0-4383-98cc-6dcb3b0964e5,50,Male,88984.0,PhD,Rural,Liberal,0,4,1
+af576565-7f5e-4b79-aa27-63992e71b392,30,Male,69923.0,Bachelors,Rural,Liberal,1,3,1
+93584de0-ad99-453c-b927-4787685643c7,36,Male,89122.0,Bachelors,Rural,Independent,0,2,0
+3d51ff77-d084-4d87-a8c1-80eae06ba679,26,,44398.0,,Urban,Conservative,0,2,1
+32496da3-6b72-4195-a834-afcd951d3880,60,Female,124454.0,Masters,Rural,Independent,0,1,1
+1bfbc36c-3a19-4c24-a611-88a06acad079,67,,135077.0,PhD,Urban,Independent,1,1,0
+d94f0ed7-3de3-47b4-8bae-89e4be59cca9,58,Male,129772.0,,Urban,Conservative,1,1,0
+dea217a8-4062-49aa-bbb4-9c86cd040baf,26,Male,62113.0,Bachelors,Rural,Independent,0,4,1
+7141b356-253a-4afd-90d1-50a1c68d9bf9,63,Male,117935.0,,Urban,Liberal,0,3,0
+ea1377a3-14af-45c7-996e-353574a52d28,44,Female,73219.0,Bachelors,Urban,Conservative,1,2,0
+79eddae1-3086-450e-a2b4-7144d352bb09,40,Male,,Masters,Urban,Liberal,1,2,1
+da116285-2cb8-4c6f-95a7-2e6cf65673e6,25,Female,145991.0,Bachelors,Urban,Independent,1,5,1
+1bf26d95-4353-4143-aa6d-0988da9a82ee,42,Female,30668.0,Bachelors,Rural,Liberal,1,2,0
+ddc48bdc-514e-4ee8-8f5d-17913a961c65,39,Male,111610.0,Bachelors,Urban,Independent,1,2,0
+66f07b73-7990-462e-b776-5f068b64107c,53,Female,131965.0,High School,Urban,Conservative,1,4,0
+29ac678c-eae3-455f-82f0-c5b32bcc40ef,22,Male,79456.0,Masters,Rural,Independent,0,3,1
+83c5b0e1-6e03-4dc3-852a-0f364fc0ca5b,31,Male,149425.0,,Rural,Conservative,0,3,0
+60a6a666-e45f-471a-8921-987f161749b3,72,Male,,High School,Urban,Liberal,0,3,0
+25ace657-1599-4de5-9b2f-bf0a1af568f1,61,Male,41079.0,High School,Rural,Independent,1,1,1
+a049ed28-ea07-4a3f-b956-a0d92fe58e32,58,Male,68175.0,High School,Rural,Independent,0,4,1
+73bf3180-018d-4f52-a799-5f7807fc3041,18,Male,61626.0,Bachelors,Rural,Independent,1,1,1
+1592dad7-f8e6-4d1a-b5c9-a9267cce4776,45,,40812.0,PhD,Urban,Conservative,0,3,1
+93730e14-0952-4162-be37-98ee1a18a1d9,71,Female,61852.0,PhD,Urban,Liberal,1,4,1
+b593163f-6d45-49fc-899d-6f1e526182ab,76,Male,88303.0,PhD,Urban,Liberal,1,5,1
+0bd452ac-270a-4372-8b61-cd399e98bb61,70,Male,95566.0,High School,Urban,Independent,1,3,1
+c2b04da6-d169-4077-879d-5cbd85354023,36,Male,115934.0,Masters,Rural,Independent,1,5,1
+40f9923d-a5d3-4f75-b106-b0ce9ac8c1f6,67,Male,,High School,Rural,Independent,0,3,1
+e41d22bb-3637-4138-97dd-925ebd2cac6e,63,Female,39729.0,Bachelors,Rural,Conservative,0,5,1
+ffa02b83-5c29-4d6e-b578-ee57e5aabf88,44,Male,51615.0,Bachelors,Urban,Liberal,1,4,0
+f1b9ca77-0001-4425-9d91-2cd2fb76f103,39,Female,127088.0,Masters,Urban,Independent,0,4,0
+bed014a2-f76c-464f-bf2b-673c44e15252,79,Female,93539.0,PhD,Rural,Liberal,0,5,0
+8e9baff9-01f4-4b34-8e34-21fef8ee0711,31,Male,89194.0,PhD,Rural,Conservative,0,3,0
+272ad440-8a24-48e9-8e13-f7e1fd8a3186,29,Female,28531.0,High School,Urban,Conservative,0,4,0
+0410cec7-a3fb-4345-84c1-ae824bfc6bc3,65,Female,120034.0,High School,Urban,Conservative,0,5,0
+74cbb303-76b3-4f0f-a7e9-1f207fb43668,77,Male,35156.0,Masters,Urban,Independent,1,5,1
+0b76bdaa-10a2-4ae4-bb8e-7d1e7dc5c6a1,21,Female,20951.0,PhD,Rural,Liberal,0,1,0
+0cb3de70-56ee-4c9e-932a-2b2db25c742a,45,Male,126817.0,Bachelors,Urban,Liberal,1,4,0
+35ddd022-fe4b-4c2a-b581-8610b3c2739a,54,Female,68151.0,High School,Rural,Conservative,0,2,0
+5867b314-d9c7-4475-bcca-d276acd0a14d,38,Male,22137.0,PhD,Rural,Conservative,1,2,0
+3796796e-ff95-4e87-9099-12234190b5f0,23,Male,119671.0,Bachelors,Urban,Liberal,1,5,0
+26c1a476-bc54-4766-8ea8-95b4e0d41064,79,Female,22135.0,PhD,Urban,Conservative,1,3,1
+429dc7e6-3f07-4bfa-bf7c-d6efddce4002,69,Female,147859.0,High School,Rural,Liberal,0,1,0
+bcd2e1be-e808-4166-9b1a-4957136e0d6c,28,Female,74485.0,High School,Rural,Liberal,1,1,1
+6597efc0-7dd2-4862-a173-e7c7599465ea,75,Male,112671.0,Masters,Rural,Liberal,0,5,1
+7cb93bfa-d910-4a16-96de-8d0bbed89473,22,Male,34684.0,PhD,Rural,Independent,0,1,0
+0adc7ba6-aab4-4e82-ab17-ddabe19600a4,40,Male,105449.0,,Rural,Independent,0,1,0
+94fba15b-531b-46e6-98c4-81e62e244a56,20,Male,82550.0,Bachelors,Rural,Independent,1,4,0
+6051497e-b9e3-42d0-874b-e0117640d5ff,67,Male,138493.0,PhD,Urban,Independent,0,2,1
+dae3423b-209f-48eb-a489-9502687f4d43,33,Female,86322.0,High School,Urban,Liberal,1,1,0
+7cb76a7e-5a2a-4f1c-8f70-7a36025a53af,68,Female,87152.0,Masters,Urban,Independent,0,4,1
+2a0c8fe1-0e85-41af-a852-a6656264774c,54,,30486.0,Bachelors,Rural,Conservative,1,1,0
+9cf71572-6f2e-4946-9c09-0abf2aa46e59,22,Female,34817.0,Masters,Rural,Conservative,0,5,1
+454d353a-b3c0-4cdd-9b98-48f0f7f1cd64,71,Male,120029.0,Bachelors,Urban,Conservative,0,4,1
+4954e619-662d-41b8-84d1-12285c4e5751,21,Female,147729.0,PhD,Rural,Liberal,1,4,1
+48fb46e8-fbdd-4f59-9914-6b2ea982e01d,71,Male,133295.0,Bachelors,Rural,Independent,0,1,0
+bd9595b1-de2f-4ce1-9269-d2d8ea2b8110,31,Male,68274.0,,Urban,Liberal,1,3,0
+f2ed30aa-5dbd-43f9-b1ea-cfa6db3c946c,38,Female,132071.0,PhD,Urban,Liberal,0,1,1
+a03d4b55-ec4c-4878-99d6-27229a6c3502,70,Female,,High School,Urban,Liberal,0,3,0
+46e8c430-60ad-4803-ab65-f3cbeafd0041,57,Male,124002.0,Bachelors,Urban,Conservative,1,4,0
+363444aa-21bc-4ad6-96dc-38f334e8e2a1,50,Female,,Masters,Rural,Liberal,0,1,0
+db7c0207-21c1-4c4f-bfd0-1cc717ded601,72,Male,124099.0,Masters,Urban,Conservative,1,1,1
+f1c20b6b-645d-4ec4-a54c-a63c4251a5cf,46,Female,36869.0,Bachelors,Urban,Independent,0,4,0
+b61944b0-d781-4003-918c-571e7a8d01ed,45,Male,44598.0,,Rural,Independent,0,4,0
+70805b17-1421-42ef-9f2d-bd90e1530440,37,,117851.0,,Urban,Conservative,0,2,1
+35013969-c534-4453-81a3-17c5daf1e3c3,25,Male,,PhD,Urban,Independent,0,2,1
+01b8425a-3340-4892-afb2-b41da2b425b5,65,Male,45385.0,Bachelors,Urban,Liberal,0,5,1
+2fdbecaf-360c-4156-a717-e61dfe9b4cc1,77,Female,52219.0,Masters,Urban,Independent,0,5,1
+778f1d8b-799e-4c53-80d0-6bc686f83a74,75,Male,38740.0,PhD,Urban,Conservative,1,4,1
+1a1da7b5-43d7-4594-9d46-ea787707e1df,21,Female,47227.0,PhD,Urban,Conservative,1,3,1
+cc877280-5651-49d2-8324-67dd972962cb,30,Female,64126.0,Masters,Urban,Independent,1,4,0
+059f1a05-d716-438e-ba20-f1f5a997f1a2,58,Female,54388.0,Bachelors,Rural,Independent,0,2,1
+7a81ae9f-f3f4-4b11-ad70-3709e31197ad,54,,,PhD,Urban,Independent,1,1,0
+a7ab856b-86be-42d7-9cd1-08b13b1e4fd8,40,Male,136504.0,Masters,Rural,Independent,1,1,1
+ec277439-d2b7-4f70-a4a2-1477aa9b5aea,31,Female,59819.0,PhD,Urban,Conservative,0,2,1
+523c6cfa-06ca-4bc8-8d8c-e0bb37a0e73a,51,Female,51786.0,PhD,Rural,Independent,0,1,1
+e159acad-e4cc-480f-990a-8d1eb121a7fa,60,Female,,Masters,Rural,Independent,1,5,1
+73d907c7-4bd0-4192-96a2-68fa4e9bcf59,58,Male,55768.0,High School,Rural,Independent,1,1,1
+c7bc77bf-e3f7-4959-8e80-8a2565b8c1ca,67,Male,146096.0,PhD,Rural,Independent,0,5,1
+82f0cbcc-8279-44e4-9c4f-39f1b598031f,62,Female,26433.0,Bachelors,Urban,Independent,1,4,1
+d1c11fff-3577-432c-a65a-d89cd1de9676,54,Female,20159.0,High School,Rural,Liberal,1,4,0
+63f27d3f-873c-4601-99f4-1553dfcad8de,45,Male,90295.0,PhD,Urban,Conservative,1,2,1
+8ac46bf5-8a13-471e-af44-1a914c00e3ef,34,Female,72955.0,PhD,Rural,Independent,0,4,0
+6014c383-85c8-45ba-ac66-825f65e19a59,29,Male,77867.0,Masters,Urban,Independent,1,2,0
+a438cba3-831d-4619-98ff-86df9e6ec7ee,36,Male,35035.0,,Urban,Conservative,0,4,0
+c233c474-c356-4d4f-9d91-c1245fd5a2d3,57,Female,147424.0,High School,Urban,Independent,1,3,1
+c78309fa-644e-48e9-80cc-472dcf738e6b,35,,135038.0,High School,Urban,Conservative,0,4,1
+c2f5135b-eba5-4a03-8cd7-78a2b12f36a3,35,Female,122813.0,High School,Urban,Independent,0,1,0
+6ab4fc04-2177-4ef2-8d67-2306b56c2930,23,Female,79912.0,Bachelors,Rural,Liberal,1,2,0
+ef6f07fe-f22f-432c-ade8-64bbb45b79fe,73,Female,51309.0,High School,Rural,Independent,1,3,1
+8775d59f-f14e-4dce-b8d2-7fb49f34f923,52,Male,58880.0,Bachelors,Rural,Independent,1,1,0
+cc1be7a4-ef67-47a1-afcb-4a0cc4ab9307,20,Male,64595.0,High School,Rural,Liberal,1,2,0
+4ba84ba8-21ac-4925-a44f-acd044078541,53,Female,111654.0,High School,Urban,Liberal,0,4,0
+c16f4e46-cfe7-4b7e-8f32-08de0a9d68b9,36,Male,148069.0,High School,Urban,Liberal,0,5,0
+4ccd6729-3881-4ee3-96c3-643769c9ddc2,60,Female,108671.0,PhD,Rural,Liberal,1,1,0
+ac5a5367-2ec8-495a-ab73-bb6151666977,58,Male,55048.0,Bachelors,Urban,Independent,0,5,0
+631159b2-e576-45d1-b913-60c262401451,58,Male,110822.0,High School,Urban,Liberal,0,1,0
+2334dd7a-4e48-432c-9a2f-c9105378e28a,35,Male,,Bachelors,Rural,Conservative,0,2,0
+2b76b826-3bae-4345-95e0-7eba6101d88e,26,Female,123348.0,High School,Urban,Independent,1,2,0
+44733c5c-a9d3-4029-bd8c-c016673a1933,59,Male,50828.0,PhD,Rural,Independent,0,2,1
+941f7cc1-4100-43c8-bed6-26d35628579d,38,Male,,High School,Urban,Conservative,1,4,0
+6ab9f802-9158-4a40-92ab-71aba2b7ebc5,25,Female,118592.0,High School,Urban,Independent,0,2,0
+8a289a35-f075-442f-bdf5-f130cc629b39,51,Female,70319.0,Bachelors,Rural,Liberal,0,2,0
+e27ecea3-63fe-4945-a768-d16989c60f18,34,Female,121447.0,Masters,Urban,Independent,1,4,0
+74fd9c2b-d9d3-47b7-a909-b5e1aaf95950,51,Male,82824.0,High School,Urban,Liberal,0,2,0
+f82c9aab-a94c-4503-9051-4959ec65e50e,22,,55057.0,Masters,Urban,Independent,1,4,1
+96505b54-3576-445b-b0c3-67db7e045233,56,Male,80672.0,High School,Rural,Liberal,0,4,0
+67567e96-7371-4555-8bb0-474a49d88b6c,63,Male,41297.0,Bachelors,Urban,Liberal,1,3,1
+0b75a8ce-d2bc-4220-b076-c9359022fcf7,20,Female,140321.0,Bachelors,Urban,Liberal,1,1,1
+5123815d-2cd3-46d8-91a0-25da42c0a8af,56,Male,114495.0,Bachelors,Rural,Conservative,0,2,1
+7c884dac-6db7-4092-afae-6d0fb13745e8,78,Female,41904.0,PhD,Rural,Conservative,0,5,0
+9918566a-8691-4db2-9d8e-a104da911f8d,50,,135255.0,Masters,Urban,Conservative,0,1,0
+088fc949-48e6-4dec-acf5-72f055a611e1,78,Male,78643.0,PhD,Urban,Liberal,1,3,1
+303ddc42-63c0-4161-b640-825b94c24a03,78,Male,141417.0,High School,Rural,Conservative,0,1,0
+c0259ec0-b39b-4b2f-ba4e-72bc5ce53cc0,64,Female,121581.0,High School,Urban,Liberal,1,1,1
+ec425cf1-60a1-49ce-83cf-2ff9fdc89c7d,73,Female,145675.0,Bachelors,Rural,Independent,0,5,1
+bb94082d-0db1-40fb-84c6-73259c740acb,35,Female,,PhD,Rural,Liberal,1,2,1
+3d1beb08-baab-48f3-8c59-9666de5a32f2,70,Female,115736.0,Masters,Urban,Independent,1,2,1
+0aa1a414-21cc-48f8-8679-efdcf237bdcf,74,Male,25832.0,Bachelors,Urban,Independent,0,3,0
+c31ce293-11cd-4cb4-91cf-fc7af62fb726,41,,121368.0,Masters,Rural,Independent,0,1,0
+49fcb714-4b7a-4356-a883-7b82fb945466,69,Female,85448.0,High School,Urban,Independent,1,1,1
+7093e711-b5d3-4293-a34e-0fbc3ad093ca,62,Female,113016.0,,Rural,Liberal,0,5,0
+6ec66c4a-bc56-4b6c-9f5b-9643748abcd5,24,Male,97906.0,Bachelors,Urban,Liberal,1,3,0
+9bb15a69-47e8-4d4f-9cd6-f12d910d90f5,42,Female,131691.0,High School,Urban,Conservative,1,2,0
+f2b8e7cb-7c40-422b-81ef-26f8b23e3b66,50,Female,135020.0,PhD,Rural,Conservative,0,4,0
+594c91b7-ae66-4d47-a2a1-e463e300c02e,68,Female,91040.0,Masters,Urban,Liberal,1,5,0
+f9abdfba-c86a-4174-b3b6-0d12edd400c0,79,Male,136303.0,High School,Urban,Independent,1,1,1
+dced566d-7a70-4fb7-b18d-2ef99cafe936,60,Female,139026.0,Bachelors,Rural,Conservative,1,1,1
+840c6dd9-a449-4d94-8471-3e48e6ac8108,64,Male,,Bachelors,Urban,Conservative,0,2,0
+e569c131-816e-42a6-942c-a7f128bdb9d4,43,Male,112812.0,Masters,Rural,Liberal,1,2,1
+6c5089fe-df04-4177-8fda-ee5bd13c11b5,43,Female,,Masters,Rural,Conservative,0,3,1
+a62e57f1-38fe-4695-9ae1-4cfb940b89ea,24,Male,61294.0,Bachelors,Rural,Conservative,0,5,0
+7a39e307-a882-4e1d-8a04-8cc82c59a64c,37,Female,43922.0,High School,Rural,Independent,0,5,1
+742423d7-5196-4989-80c1-0d3744d021f1,30,Female,121651.0,High School,Urban,Liberal,1,1,0
+eb988dfe-da57-4c72-954e-14318a970797,59,Female,,Masters,Rural,Liberal,0,5,0
+b3c495f2-e681-4390-b777-c31221431184,69,Female,132768.0,Masters,Rural,Conservative,1,5,0
+6c3d9870-443f-440f-ace1-ecfeef68bcd6,75,Male,61131.0,Bachelors,Rural,Conservative,0,4,1
+c07bf1a0-0523-47f4-970b-d4e9ee7ee606,20,Male,64255.0,Masters,Rural,Conservative,1,2,0
+6aeb962b-08c6-4006-80dc-50973e2c517a,75,Male,125022.0,Masters,Urban,Independent,1,1,1
+6dc5784b-5dea-498a-a1e1-b85f8627e241,25,Female,112910.0,High School,Urban,Conservative,1,1,0
+8edf0be3-3e47-4a3e-ad40-969c440e2d95,67,Female,36698.0,PhD,Rural,Independent,1,5,1
+56bb9eb2-12bb-4b01-8874-6f18156d19f0,45,Female,52662.0,Bachelors,Rural,Independent,1,5,0
+5905c8e2-6e7e-483b-8414-495994cadff8,20,Male,90522.0,High School,Rural,Liberal,0,5,0
+ed2eff33-2da4-48c3-990a-a20a06e073d3,61,Male,103006.0,Masters,Rural,Independent,0,4,1
+d6cea84f-f4c8-4b27-85bb-93911a230b95,62,Female,109913.0,PhD,Urban,Conservative,0,3,1
+ccfc6d4d-e4d1-4d65-87e6-6b622c37d0bc,56,Male,54228.0,High School,Urban,Liberal,0,4,1
+78679d2d-bf8e-4ce6-85c2-0bb148b7a706,57,,,Bachelors,Rural,Independent,0,3,1
+86787011-e6f9-48e6-808d-1850101e0271,47,Male,108887.0,Bachelors,Rural,Liberal,0,3,1
+f8dfaafa-dbb9-42f2-8823-b3438c6b036a,57,Male,108955.0,Bachelors,Rural,Conservative,0,5,1
+07ce67bc-b081-4cde-b444-9a962e1decbb,78,,47337.0,PhD,Rural,Independent,0,1,1
+108d0428-075a-4aa0-a035-c10745301088,35,Female,65830.0,Masters,Rural,Conservative,0,5,0
+b5a84e86-cd7b-4cbe-b709-1959a2890563,53,Female,117978.0,PhD,Urban,Liberal,0,4,0
+ec152a51-f2ae-4de6-b2be-d60c79ee1f79,59,Female,127352.0,High School,Urban,Liberal,0,1,1
+8ac0dd2a-1d56-4334-a3e8-32a20e159e4c,73,Female,,Bachelors,Rural,Liberal,0,2,1
+be569c23-05dc-4d57-8b78-f334333c40b3,44,Male,57074.0,Masters,Rural,Independent,1,5,1
+61fa02f4-7202-4322-a207-8afc176f9a29,65,Male,143961.0,Masters,Rural,Liberal,1,3,1
+52efca7f-1044-4c89-b322-a334d00a5271,70,Female,40778.0,PhD,Urban,Liberal,1,4,0
+abec3414-64b9-458c-b3a4-f91c51019993,35,Female,,High School,Urban,Liberal,0,5,0
+fe381a8f-1723-4975-ba16-4b44edb163ac,53,Male,57324.0,Masters,Rural,Independent,1,2,0
+5c9e18f6-a8d3-4b90-8278-6648ee8d2889,63,Female,125198.0,Masters,Urban,Liberal,0,5,1
+26837024-b0be-4ac2-b7e7-f910e5c9dd65,21,Female,25533.0,High School,Urban,Liberal,1,5,0
+87da8a44-c3d5-4d39-aa6f-2bf5dc9c472d,45,Male,136462.0,Masters,Urban,Conservative,1,1,1
+4a4dc37e-011d-42ae-988f-9deb6978ce81,39,Male,120185.0,High School,Urban,Liberal,0,3,1
+ba219265-08d3-44ff-85bb-384734e76a95,48,Male,73809.0,High School,Urban,Conservative,1,1,1
+8895ee3e-0487-4662-8e29-ef130285e9bb,75,Male,138636.0,PhD,Rural,Independent,1,5,0
+c915e753-0eb6-4fbd-a2dd-c32112b48bc6,26,Male,39775.0,Masters,Rural,Liberal,0,4,0
+b611568f-57e1-4fbe-8482-10f31d41839c,36,Male,116021.0,High School,Urban,Conservative,1,4,0
+97e3c261-903a-404d-863f-f7272d51cc4d,53,Female,147068.0,Masters,Rural,Conservative,1,2,1
+f94370fc-5c8f-4806-9252-c62b51c64ed4,77,Female,37116.0,High School,Urban,Liberal,1,1,1
+28a68933-d963-458f-bf15-3852ea97ae21,55,Male,97827.0,High School,Rural,Independent,0,4,0
+eee1d51a-53d4-43ae-9eb1-dfa0d230c5ad,58,Male,135890.0,PhD,Urban,Conservative,0,2,0
+ed31b84d-58bb-4d09-bf8e-a1c66d9eb7ac,60,Male,121724.0,High School,Rural,Liberal,1,1,0
+0bce0b30-6670-4407-bc3b-d8db4dd60738,41,Male,21576.0,PhD,Rural,Liberal,0,1,0
+3f117472-d5c5-4af8-8cf7-a6025c4ba271,32,Male,132605.0,High School,Rural,Independent,0,1,0
+7e5638f1-ceb3-4905-aba0-17be29b657c6,26,Female,149496.0,Masters,Urban,Independent,0,2,0
+3302c101-ddd7-4e1e-90ed-ed78e7f38657,76,Male,47766.0,Masters,Urban,Liberal,1,1,0
+d4172ad9-cadb-4bb6-80ac-987a5468561c,36,Male,93465.0,High School,Rural,Conservative,1,4,0
+f2a369fd-51f0-4e60-af8a-99b28abd388b,60,Female,117292.0,PhD,Urban,Conservative,1,4,0
+62644a48-e31b-45a3-b478-c3a87118314a,69,Female,133828.0,PhD,Urban,Liberal,0,1,0
+aa4179ff-dd5a-4080-ac9d-8e0c752ff2e6,25,Female,131195.0,Masters,Urban,Independent,1,2,0
+9eaebaa8-65ae-4c83-85dc-109de3161421,64,Male,46984.0,PhD,Rural,Conservative,0,5,0
+53cb052b-3f56-48dc-a26b-34f9ff4586e2,42,Female,50995.0,,Rural,Conservative,1,1,0
+fc1ef359-b8d1-429c-9de3-12f068aef984,57,Male,68261.0,PhD,Urban,Independent,0,1,0
+d99f05e1-cfaf-43fa-823b-a0a04e6988ab,30,Female,122414.0,Bachelors,Rural,Conservative,1,5,1
+363e1b94-5fdc-467f-8b7b-3da666fc5df8,74,Male,146365.0,High School,Urban,Liberal,0,3,1
+d45e41ca-0c13-4862-a3f1-9d01b9e530e9,23,Male,78639.0,Bachelors,Urban,Conservative,0,1,1
+628b1124-f80e-4c6d-bfc0-0b160d9361c5,26,Female,97579.0,High School,Rural,Liberal,0,2,1
+53beec12-4e7f-497e-b832-953975a0513e,66,Male,51722.0,High School,Rural,Conservative,1,1,1
+8b27b1e1-e994-47f0-a7b9-d1e9ee38b97d,61,Female,49989.0,High School,Urban,Liberal,0,5,1
+4c315257-c96e-4197-873d-658b2b33b2be,40,Female,145220.0,Masters,Rural,Liberal,1,4,1
+37f9a807-61e9-44cc-a0a5-04d8b36867cd,25,Male,128748.0,Masters,Rural,Independent,0,5,0
+dd38633b-30d4-453c-abde-298145c6affe,69,Female,140194.0,,Rural,Independent,0,4,0
+e3719ece-3a1f-40b6-b24b-50c4ac0d8972,42,Male,68998.0,High School,Urban,Conservative,0,1,0
+1f45ad7d-684c-478b-b374-e9466208543e,33,Male,140808.0,Masters,Urban,Independent,0,4,0
+8eedd17f-4a2d-4d96-9db2-ec0cd672a846,70,Female,35980.0,,Rural,Conservative,1,1,1
+266d28d0-ba69-41cd-8b13-65b8950a4240,54,Male,95979.0,PhD,Rural,Conservative,0,5,1
+9ce5ee8e-b8fe-4780-9978-b09f3d23f864,21,Female,,High School,Urban,Independent,0,5,0
+1e065cd2-c67b-4be0-9e9c-1fb82d79e81d,64,Male,108575.0,Masters,Urban,Liberal,0,2,1
+3f92bc35-b44a-48a7-b173-e067bbf47360,76,Male,33413.0,Masters,Rural,Liberal,1,4,0
+c0533a78-e939-4661-83c6-22ae16b8fb33,70,Female,25185.0,Masters,Urban,Liberal,0,5,1
+644418ae-1674-43f7-810f-48abd965091c,21,Female,136593.0,PhD,Rural,Independent,1,4,1
+74c91fea-4638-4e51-bfa1-761d33dc221f,23,Female,42780.0,Bachelors,Rural,Independent,0,1,0
+71d8dc72-9d0b-44b1-9375-6612629cc00b,29,Female,32938.0,PhD,Urban,Liberal,0,1,0
+dfc2b938-aeab-43ec-9aab-ccbf187aefbd,27,Female,62318.0,PhD,Rural,Independent,1,5,1
+e85e3180-219f-4c94-802d-324e03674dc2,58,Male,79392.0,PhD,Urban,Independent,1,2,1
+4ebcb14f-b1c1-4775-bfe0-5fcb67daabe4,46,Male,47955.0,High School,Urban,Conservative,0,1,0
+c63d52e1-b6ce-40dc-ae63-322d71090af9,51,Male,118088.0,Bachelors,Rural,Liberal,0,3,1
+4c60e5e8-6ce3-4102-9c49-ace3973d53f4,32,Female,78235.0,High School,Urban,Liberal,1,4,1
+db1aeb88-ed02-404b-a065-f7ff53bd26a3,32,Male,143462.0,High School,Rural,Independent,1,2,1
+517d6c7e-5ea3-4c88-ba57-1e8e1cb23a4d,79,Female,85355.0,High School,Rural,Liberal,0,5,1
+3f521bd6-16cc-4446-b20e-083bee12381b,35,Male,45145.0,,Rural,Conservative,1,4,1
+1cac2194-44c6-4d6c-9e43-aae7deb89031,36,Male,,Bachelors,Rural,Conservative,1,5,1
+20dc37d5-ab27-4829-9250-434ad1d498e0,25,Female,43938.0,,Urban,Conservative,0,4,0
+00841537-8110-4981-9950-ec4e1a5abd84,61,Female,90361.0,High School,Rural,Conservative,0,4,1
+272f24bd-cfa6-482b-b4d7-d0e2449a81b8,23,Female,30415.0,Masters,Urban,Conservative,1,3,1
+48af320c-a804-4545-b74d-497a25daccbe,51,Female,75110.0,Bachelors,Urban,Conservative,0,1,1
+17ebf596-75cf-4ff1-b219-803e391d1733,35,Female,94105.0,High School,Rural,Independent,1,4,0
+88c0fc57-4d09-44aa-a71b-88f4525ba526,72,Female,127977.0,PhD,Urban,Independent,1,4,0
+47e2ce49-86e7-4546-b210-5328d125f619,72,Female,78341.0,High School,Urban,Liberal,0,3,0
+9dc1dbd6-9089-499d-80a5-c8f1dedb0dc9,58,Male,33202.0,PhD,Rural,Independent,0,4,1
+c4904f41-0cbb-44d1-b68a-995a2b53f210,63,Male,99034.0,High School,Urban,Conservative,1,5,0
+da772e33-e592-4262-9060-5454b75913d9,50,Male,125228.0,High School,Rural,Liberal,1,5,0
+6a528b62-1fdc-4efb-bfc1-dc08701d0160,30,Female,87570.0,,Rural,Conservative,1,1,0
+78c87107-0458-4df1-be6f-f3be708fbe1c,31,Female,74694.0,Masters,Urban,Liberal,1,2,0
+8925562a-e4ac-4686-bf48-c78bc9a658f1,50,Male,,PhD,Urban,Liberal,0,3,1
+299c886a-5b21-447d-80f4-ede801cc2951,32,Male,,Bachelors,Urban,Liberal,1,3,1
+16b79de6-ed5d-40dd-af00-dfb4c1926179,35,Female,50663.0,High School,Rural,Independent,0,3,0
+3a2c0db4-fc7b-41c4-9228-057d398ee491,33,Male,129188.0,High School,Rural,Independent,1,5,1
+1a0382cb-619b-4bf1-8758-4007a4be6129,44,Female,133478.0,High School,Rural,Conservative,1,2,1
+989f3a62-790e-44c9-8b8b-c2c53170150b,72,Female,,High School,Rural,Independent,1,1,1
+b1283008-c70b-44a5-bd86-450fd471f34c,31,Female,108274.0,Masters,Rural,Independent,1,4,1
+ce3d257d-474f-47cd-9b18-b5d273fdf10c,22,Female,22653.0,High School,Urban,Liberal,1,5,0
+816545a9-3475-4328-a32b-e97624580db2,31,Male,126000.0,PhD,Rural,Independent,0,5,0
+7b6a41ac-a67a-42d3-afc5-7f8b64b42e1c,27,Female,116957.0,Masters,Rural,Independent,1,2,0
+adca2d02-8869-4067-83b2-83220d5669ce,49,Male,121545.0,Bachelors,Rural,Independent,1,1,0
+c678af73-c622-4ae1-85fc-4fee82328c82,37,Male,99436.0,High School,Rural,Conservative,1,2,0
+a0483a60-6ec2-4cd8-b7d0-1c13e8df5250,46,Male,125326.0,Masters,Rural,Conservative,0,1,1
+5814ce81-e138-4225-a6de-2b7121f084c8,20,Female,87916.0,Masters,Rural,Conservative,1,4,0
+28664066-3ab2-4ad7-b314-b8c81e5eae1d,76,Female,66589.0,Bachelors,Urban,Independent,0,5,1
+c2fbe6f5-6e57-4b88-bd25-5185fb3b0e65,48,Female,,PhD,Urban,Conservative,0,3,1
+0ae800a7-069a-4a36-a0cb-5b854bdc6aa9,39,Female,123615.0,High School,Urban,Independent,1,1,0
+b193a1ef-6e3c-4ea1-b306-0a4d1d83eb38,27,Female,113011.0,High School,Urban,Conservative,1,4,1
+cebee47a-05ce-486a-9ae8-b9a1575d1b6c,73,Male,44726.0,High School,Rural,Conservative,1,4,1
+f3464a72-6080-49d5-ab13-ed16455cfdba,51,Female,29151.0,Masters,Urban,Conservative,0,3,0
+ebb52a6a-28fc-49d6-b8a2-b3176c5c25cd,42,Male,77920.0,High School,Rural,Independent,1,5,0
+ede2d5fd-5c9c-4614-98d7-d8fa287f9db8,56,Male,67055.0,PhD,Rural,Conservative,0,4,1
+62137e8c-f66c-4328-bfcb-0cf969f406f9,50,Female,27012.0,PhD,Urban,Conservative,0,5,0
+686d7eb4-adab-490b-85fc-2ff580ade1a5,73,Male,65275.0,Masters,Rural,Conservative,1,2,0
+4e8bd415-bb21-43d5-9a53-ceba24a65d37,59,Male,138153.0,PhD,Urban,Liberal,1,3,1
+a4e0ea5c-b2d6-45a0-811f-cbf5e483f136,30,Female,115144.0,Bachelors,Urban,Conservative,1,4,1
+131aee0b-4de8-4212-b854-132c327bcd4f,61,Female,136048.0,Bachelors,Rural,Conservative,0,3,1
+ad085a60-a7d1-4e01-8441-e7791d19bcf1,28,Male,36478.0,Masters,Rural,Liberal,0,3,1
+28354642-6fb8-479e-a7c6-94a97479d4a1,37,,94230.0,High School,Urban,Conservative,1,4,1
+2e27ec64-6e22-4524-88bf-664fcb2ed24e,70,Female,120059.0,High School,Rural,Liberal,0,1,0
+57cc5550-b3e6-475e-a25f-1dbe7f99a7d1,27,Male,73113.0,Bachelors,Rural,Independent,0,3,1
+d37e1bc0-6c21-4e79-98b3-86be7392e225,62,Female,52266.0,Masters,Urban,Independent,1,5,1
+b68eab52-a2bf-4fa0-8036-a0afe66656f5,39,Male,54242.0,PhD,Rural,Liberal,1,1,0
+30c88bc3-e68e-4503-9587-09802c454470,77,Female,68279.0,PhD,Rural,Liberal,1,1,1
+ab7a49cf-9305-42cf-a444-665732e75663,21,Female,22606.0,High School,Rural,Conservative,1,2,0
+7a6f374f-b2cd-4fe0-9430-f2a2779737b3,68,,124756.0,Masters,Urban,Independent,1,1,1
+8ba57070-ea0e-4488-9615-10abc7fa99b3,53,,70206.0,Bachelors,Rural,Conservative,0,1,0
+38b6f666-f7c7-497f-8b17-4d9ede91174e,74,Female,52470.0,Masters,Urban,Conservative,1,4,1
+638b0654-ec21-43c1-8fa1-bdeed9739b5a,44,Female,54408.0,High School,Urban,Independent,1,5,0
+2f6cd916-5056-441a-bd44-8eba3745aa7e,76,Male,,High School,Rural,Conservative,1,5,0
+d435abc7-2d33-493c-99fc-76c2f25560b9,71,Female,84724.0,High School,Rural,Independent,1,1,1
+900d31b9-a9a1-4da5-af47-da65e65e6f61,52,Female,138367.0,High School,Rural,Independent,0,1,1
+2d40f41b-54c7-409e-a528-d71c52b6eb8d,37,Female,44656.0,PhD,Urban,Independent,1,4,0
+5e444703-ecc7-4e25-b644-22a6e5a7aa6b,59,Female,35870.0,PhD,Urban,Independent,0,4,0
+48ec30be-5b8e-4820-9602-7b77bb027e11,57,Male,53805.0,Masters,Rural,Conservative,1,1,1
+510666ef-5a7c-4552-bfc9-f59acf325b37,30,Female,63281.0,,Urban,Liberal,0,5,0
+850f819a-4f0b-44b9-b965-4c38392b06ce,18,,47098.0,Bachelors,Rural,Liberal,1,2,0
+b3005f2a-dd29-44c5-bb18-f93e82fa2a6c,30,Male,144193.0,Masters,Rural,Liberal,0,4,1
+9426b286-bfc2-49fa-8a81-81efa42c9ce1,73,Female,,Bachelors,Urban,Conservative,0,5,1
+06a8203b-da9f-456c-9d99-3fc1ba86c1e8,18,Male,132136.0,High School,Rural,Conservative,0,4,1
+8126fb46-ee1a-4ef6-ad38-f96aa3556e46,45,Male,123441.0,Bachelors,Rural,Independent,1,2,1
+91f4feca-3951-4dcf-9c5a-364acdca45d3,49,Female,64258.0,PhD,Rural,Conservative,0,3,1
+c85cd9ec-094f-4480-928c-a9d80e93ce64,30,Female,66918.0,Masters,Urban,Independent,1,1,0
+bbd11dc0-8376-4e62-b591-84a871f4eaf2,79,Female,21373.0,Bachelors,Rural,Liberal,0,3,1
+db510921-a57f-4385-bf35-9ab721df08f8,53,Female,105651.0,PhD,Urban,Independent,0,4,0
+d338c545-5226-4f34-b90f-d4550781485d,78,Female,137873.0,PhD,Rural,Conservative,0,4,1
+bc6d0074-7abf-4568-bcb9-5cddc3ef9a16,40,Male,92892.0,Masters,Rural,Conservative,1,5,1
+dd014ef8-8c9a-4db7-a95a-13143ed5dc00,31,Female,69059.0,Masters,Rural,Independent,1,2,1
+1a6a95c9-0b52-4178-a052-57df43c2981a,70,,117607.0,PhD,Urban,Independent,1,5,0
+2a0561ab-2303-40e9-a735-1a12bf2d933b,32,Female,50799.0,High School,Rural,Independent,1,5,1
+80a4ed12-f14c-4d81-aa06-2f986d1fd01a,63,Female,82092.0,PhD,Rural,Conservative,0,2,0
+150da720-d04a-41e5-9d1e-5da72d8dd206,39,Male,31030.0,PhD,Rural,Liberal,0,3,0
+caee1a9f-a7ef-444b-a576-c84538f5e18c,78,Male,41490.0,High School,Rural,Independent,1,3,1
+d5bf5ab1-8976-48eb-aa19-9e7d8f2b090c,62,Female,113432.0,High School,Rural,Conservative,1,4,0
+3a8ed66c-25ac-4454-b43c-a106b928c23a,29,Male,35689.0,High School,Rural,Independent,1,4,0
+883bcb26-ee00-449f-a32d-c9082487fa97,38,Female,38014.0,Bachelors,Urban,Liberal,1,2,0
+cedf758f-258a-4998-9b82-d91e603df90d,33,,123789.0,High School,Urban,Conservative,0,4,1
+f83045cd-b4cd-424b-8ab0-1480c5d2641d,43,Female,128248.0,PhD,Rural,Liberal,0,1,1
+287e48f4-e48c-4ef8-8fb5-8a046bcdc601,67,Male,59261.0,Masters,Rural,Conservative,1,4,0
+c84f58d6-b3b8-43c3-8571-f523d32a6831,21,,50944.0,PhD,Rural,Independent,1,2,1
+8b5acff1-e8ef-40b7-a696-171535983ff0,21,Female,,Masters,Rural,Independent,0,5,1
+07cb0a92-cc4f-4138-b976-8417f795683b,27,Female,124092.0,High School,Urban,Liberal,1,1,1
+8608df49-5113-4325-a32a-ae8991019823,45,Female,44505.0,PhD,Rural,Independent,1,5,0
+7db36b98-3f85-483b-839b-28287665eca5,62,Male,68315.0,,Urban,Conservative,0,4,1
+91652b17-e7d4-46a6-a48a-34de548ce7c8,64,Female,27157.0,High School,Rural,Independent,1,2,0
+6ada1595-e295-414c-87cb-d4f7bfcdfacc,37,Female,124108.0,PhD,Rural,Conservative,0,3,1
+2246429a-4b21-42dc-90c9-bb8df40b3e6f,40,Male,29698.0,High School,Rural,Liberal,0,2,0
+9e4bd729-419d-4359-94b8-70af02af9419,22,Female,,High School,Urban,Independent,1,4,1
+ea3638b2-1eeb-40ec-925d-502f9b9cfd08,26,Female,113933.0,High School,Urban,Independent,1,2,1
+aa8bb25d-aec9-41f4-9093-63721ddbac84,79,Male,54309.0,Bachelors,Urban,Conservative,1,1,0
+c99dd8e7-6214-4245-9362-09b7ba8a4504,62,Female,52716.0,Masters,Urban,Independent,0,4,1
+80bd4c92-0bad-47bb-969b-980d19af310f,48,Male,34069.0,PhD,Rural,Liberal,0,5,0
+ea8ae89a-1469-43f2-8ab4-a38378e89cc4,63,Female,55841.0,Bachelors,Rural,Liberal,1,1,0
+6cb935d1-1678-42ec-b258-9f475eb49c19,29,Male,141387.0,,Urban,Liberal,1,2,1
+b6e6afeb-3207-4009-8e88-b0f8255b6fe7,53,Male,121608.0,High School,Rural,Liberal,1,5,1
+b330223e-eb8c-48a8-b0a3-b2282c34bf79,51,Male,73127.0,Bachelors,Rural,Conservative,0,1,1
+666fc79c-dad9-4500-aade-e20b7e434b85,39,Male,143584.0,Masters,Rural,Liberal,0,3,0
+f3cc1882-1d5c-4f78-af05-8737e37e3cc1,39,,131127.0,Bachelors,Rural,Conservative,1,3,1
+cb371ac1-5c1d-4333-839a-d89213b5b681,30,Male,82577.0,PhD,Urban,Independent,0,5,0
+55b7c66c-6813-4a42-81b9-29b0dcf9a826,33,Female,45345.0,Masters,Rural,Liberal,1,2,0
+a3e1b337-df53-47ac-8d07-19b6cf3c558e,53,Female,133289.0,PhD,Rural,Conservative,0,1,1
+0d1efeda-4304-4531-b5e5-22a59f1d466a,22,Male,119633.0,Bachelors,Rural,Independent,0,5,1
+b1ecbcb3-868d-45b5-be3b-66ebcfc4db22,54,Female,69778.0,PhD,Urban,Conservative,0,4,0
+0fef89f7-5901-48c9-8a58-f632eb7c1b8f,43,Female,50694.0,PhD,Rural,Liberal,1,5,0
+3da978ba-d91e-4af3-a769-046054cadf8d,52,Female,130306.0,High School,Rural,Conservative,0,4,1
+73eede10-1407-49c8-9937-20686bee6029,79,Female,126974.0,Masters,Urban,Independent,1,1,1
+d0755744-bc48-4f12-9f4a-19f58cd99598,46,Female,146451.0,Bachelors,Urban,Liberal,0,5,0
+a5e78ce9-c5c2-40b1-9c71-1a2d244214af,70,Male,30214.0,High School,Rural,Liberal,0,3,1
+e73a4122-7547-45ae-8902-292e3be2ab65,71,Female,76069.0,,Urban,Liberal,1,2,1
+9dff906f-27b2-4462-aeb5-31aa9628cdc1,76,Female,90411.0,Bachelors,Rural,Liberal,1,5,1
+234f6609-4ad1-4939-ae1b-d0407e279168,18,Female,77108.0,,Rural,Independent,1,5,1
+a09d8545-fe5b-481e-b15d-5bf612e59c45,60,Female,53202.0,,Rural,Independent,0,3,1
+a6b1b2c4-c3a3-48de-8dea-07dad43de728,65,Female,96223.0,Masters,Urban,Conservative,1,5,1
+3a883f16-2d30-4f1c-9495-c60d08193635,36,Female,68084.0,Masters,Rural,Conservative,0,4,0
+fcf128a7-9c05-40ca-9e47-8e130b986bb4,69,Female,101151.0,Masters,Rural,Independent,1,1,0
+7538415b-e4c1-4ee4-ba02-070ed60f0193,64,Male,50740.0,Bachelors,Urban,Conservative,1,4,1
+3c66de9f-f495-434f-91db-0fe01399b223,47,Female,127804.0,PhD,Rural,Independent,1,5,0
+bb38ed25-cfa2-4b0e-91a4-c82557b38ee0,45,,145653.0,Bachelors,Urban,Independent,0,1,0
+f751a14f-0248-40cb-a39e-2ffc343a4c3a,42,Female,37877.0,High School,Urban,Liberal,0,3,1
+9de45339-3317-4d9d-a7a8-df37e5e5e12a,39,Female,53609.0,,Urban,Independent,1,2,0
+48447941-ad40-4005-9b60-2795647d2741,37,Female,24973.0,Masters,Rural,Conservative,1,2,0
+20b16ee3-e738-464c-a327-c478b39cf681,64,Male,145607.0,PhD,Rural,Independent,0,4,0
+f8acf1d6-7c9d-40ed-a4fe-253f9199ae05,72,,57987.0,Bachelors,Rural,Independent,0,3,1
+665bf234-40bb-46a4-81bc-486c40c93079,78,Female,40158.0,Bachelors,Urban,Liberal,0,1,1
+2b5ff6ac-8066-4f47-a05f-0d9bc81be180,73,Male,139651.0,Masters,Urban,Conservative,0,1,1
+031aafd5-b1cb-422b-9386-864c06aeaff7,60,Female,40005.0,Masters,Urban,Liberal,0,1,0
+4f4ca68f-0951-43fa-aefd-b352de0ee7e0,61,Male,49193.0,PhD,Rural,Liberal,0,4,0
+a1f44808-c2a9-47f6-ae39-532680647ff7,76,Female,119281.0,High School,Urban,Conservative,0,3,1
+a3ed21a8-d3b3-43cc-bab4-cbed2e8f42b0,45,Male,50766.0,Bachelors,Urban,Independent,1,1,0
+627b6fe1-d839-4a5d-9c42-b7901ad0e776,59,Male,57888.0,High School,Urban,Independent,1,5,1
+55c8ecf2-f48c-4369-b524-213c82ae5193,57,Female,104137.0,Bachelors,Urban,Conservative,0,2,1
+a6eb4f0e-d945-4fba-b59a-78bf8abb3585,76,Female,107352.0,PhD,Rural,Conservative,0,1,0
+c9158dc0-4e54-4148-b524-54c4d5c68bc3,71,Male,105878.0,Masters,Rural,Conservative,1,3,0
+2a7f67c7-06d9-45bd-b44d-94640b374441,18,Male,140081.0,PhD,Rural,Liberal,0,1,1
+d8e6e195-297b-435f-bf44-6bf1fa42ab17,66,Female,85950.0,Bachelors,Rural,Liberal,1,4,1
+ae52984b-9650-4e60-933b-049030c44e9c,27,Male,40150.0,Masters,Rural,Independent,1,4,0
+05c540e6-da38-4429-b799-3005648d1da5,30,Male,105872.0,High School,Rural,Conservative,0,3,1
+54bdf267-6e3c-46cd-b813-1baa9e8af7ac,79,Female,39291.0,Masters,Rural,Conservative,1,2,1
+a5d51477-bdee-4d00-a5c7-2a45c35d04f4,32,Female,124829.0,High School,Urban,Conservative,0,5,0
+dea0ad1a-f5c5-4ad3-baf1-c962c13387c0,78,Male,138974.0,Masters,Urban,Liberal,0,2,1
+6f504678-12f6-4de1-ada2-a661295b1d0c,64,Female,48252.0,High School,Rural,Conservative,1,4,1
+5ff3f968-ebc7-4989-870b-114615b4347e,73,Male,,High School,Urban,Liberal,1,1,0
+5240edc0-420a-47f7-8370-6fc90aee6bca,37,Male,28804.0,High School,Urban,Independent,1,3,1
+30eaddde-5116-4b22-b6f5-6acf9eb9bce2,55,Male,57706.0,PhD,Rural,Independent,0,1,0
+2e73ec62-9e09-4372-a3cc-aef47be42e96,75,Male,94233.0,,Urban,Independent,1,1,0
+0531bdba-b3d2-4ce6-a2fa-d702a4a7a5db,72,Male,114390.0,High School,Urban,Conservative,0,4,0
+6914f923-fa4b-4666-bbfa-52018d0b013f,51,Female,,PhD,Urban,Liberal,0,4,1
+b44f9dea-c54c-47ea-af48-28998ad63b03,36,Male,117704.0,High School,Urban,Independent,0,5,1
+d1adf401-93f2-4076-8996-750b2e0567b0,41,Male,130991.0,Masters,Rural,Independent,0,5,0
+736b1f48-1ab6-43ed-b0d6-0b40019e30f1,64,,52323.0,Masters,Urban,Independent,0,4,1
+0a9002e5-8750-4545-9413-47330ebeeb44,44,Male,125993.0,Bachelors,Urban,Independent,0,2,0
+a8d8da4d-6acd-49f8-8e6b-dfcbe97f0dc8,54,Male,61185.0,Bachelors,Rural,Independent,1,4,1
+ec5a790c-84c6-400b-a540-23e8498f4776,73,Female,134943.0,High School,Rural,Conservative,1,2,1
+c5936670-7654-4d0d-91ba-11ff4c97adab,74,Male,128545.0,Masters,Urban,Liberal,1,3,1
+617eb33a-fb4f-489a-b3d0-90e2d540ffc9,60,Male,107043.0,Bachelors,Rural,Liberal,1,3,0
+57fe3261-aa30-4d8b-9309-e01dab4cbb2a,61,Female,103473.0,,Rural,Independent,0,2,1
+e6514d31-de78-4aed-a902-9767850dabb6,43,Male,81970.0,Bachelors,Rural,Independent,1,3,0
+d103511e-74f8-4a6b-91c5-b7e2de064a2b,36,Female,22060.0,Masters,Rural,Liberal,0,5,0
+8a757e96-3fc5-4613-aa03-4eb194ffd8bf,18,Male,99445.0,Bachelors,Rural,Conservative,0,5,1
+dcd2e34c-0678-42ec-b5b6-dfc6435ae5aa,65,Male,128274.0,,Rural,Independent,0,3,1
